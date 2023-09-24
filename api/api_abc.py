@@ -1,7 +1,24 @@
 from abc import ABC, abstractmethod
-from typing import Optional
+from typing import Optional, TypedDict, Any
 
 import requests
+
+
+class Request(TypedDict):
+    url: Optional[str]
+    headers: Optional[dict[str, Any]]
+    params: Optional[dict[str, Any]]
+
+
+class VacancySchema(TypedDict):
+    id: str | int
+    name: str
+    area: dict[str, str | int]
+    salary: Optional[
+        dict[str, int | float | str]
+    ]
+    employer: dict[str, int | str]
+    description: dict[str, str] | str
 
 
 class API(ABC):
@@ -10,30 +27,35 @@ class API(ABC):
     API_SECRET: Optional[str] = None
     HEADER_FOR_SECRET: Optional[str] = None
 
-    extra_filters: list[str] = []
+    def get_vacancies(self, search_term: str) -> list[VacancySchema]:
+        params = {
+            self.SEARCH_GET_PARAMETER: search_term
+        }
+        raw_data = self.request_method_get(params=params)
+        return self._parse_raw(raw_data)
 
     @abstractmethod
-    def get_vacancies(self, search_term: str, **extra_filters):
+    def _parse_raw(self, data: dict) -> list[VacancySchema]:
         pass
 
     def request_method_get(
             self,
-            *,
-            search_term: str,
-            url: str = "/vacancies",
-            params: Optional[dict[str, str]] = None,
-            **extra_filters
+            url: Optional[str] = None,
+            headers: Optional[dict[str, Any]] = None,
+            params: Optional[dict[str, Any]] = None
     ) -> dict[str, int | str | list[dict]]:
+
+        if headers:
+            headers = self.default_request_payload["headers"] | headers
+        if params:
+            params = self.default_request_payload["params"] | params
+            print(params)
 
         with requests.Session() as session:
             response: requests.Response = session.get(
-                url=f"{self.request_payload['url']}"
-                    f"{url if url.endswith('/') else url + '/'}",
-                headers=self.request_payload["headers"],
-                params={
-                    self.SEARCH_GET_PARAMETER: search_term,
-                    **extra_filters
-                } if params is None else params
+                url=self.API_URI + (url or self.default_request_payload["url"]),
+                headers=(headers or self.default_request_payload["headers"]),
+                params=(params or self.default_request_payload["params"])
             )
 
             if response.status_code == 200:
@@ -42,16 +64,9 @@ class API(ABC):
                 return data
 
     @property
-    def request_payload(self) -> dict[str, None | str | dict[str, None | str]]:
-        return {
-            "url": f"{self.API_URI[:-1] if self.API_URI.endswith('/') else self.API_URI}",
-            "headers": {
-                self.HEADER_FOR_SECRET: self.API_SECRET
-            } if self.HEADER_FOR_SECRET else None,
-            "params": {
-                self.SEARCH_GET_PARAMETER: None,
-            }
-        }
+    @abstractmethod
+    def default_request_payload(self) -> Request:
+        pass
 
     @property
     def __name__(self) -> str:

@@ -2,35 +2,27 @@ from typing import Optional
 
 from credentials import superjob
 
-from .api_abc import API
+from api_abc import API, Request, VacancySchema
 
 
 class HeadHunterAPI(API):
     API_URI = "https://api.hh.ru"
     SEARCH_GET_PARAMETER = "text"
 
-    def get_vacancies(self, search_term: str, **extra_filters) -> dict[str, int | str | list[dict]]:
-        return self.request_method_get(search_term=search_term, **extra_filters)
+    def _parse_raw(self, data: dict) -> list[VacancySchema]:
+        return data
 
-    def request_method_get(
-            self,
-            *,
-            search_term: str,
-            url: str = "/vacancies",
-            params: Optional[dict[str, str]] = None,
-            **extra_filters
-    ) -> dict[str, int | str | list[dict]]:
-        params = self.request_payload["params"]
+    @property
+    def default_request_payload(self) -> Request:
+        return {
+            "url": "/vacancies",
+            "headers": None,
+            "params": {
+                "describe_arguments": True,
+                self.SEARCH_GET_PARAMETER: None
+            }
 
-        # Требование API headhunter.
-        if extra_filters:
-            params["describe_arguments"] = "true"
-
-        return super().request_method_get(
-            search_term=search_term,
-            params=params,
-            **extra_filters
-        )
+        }
 
 
 class SuperJobAPI(API):
@@ -39,5 +31,17 @@ class SuperJobAPI(API):
     HEADER_FOR_SECRET = "X-Api-App-Id"
     SEARCH_GET_PARAMETER = "keyword"
 
-    def get_vacancies(self, search_term: str, **extra_filters) -> dict[str, int | str | list[dict]]:
-        return self.request_method_get(search_term=search_term, **extra_filters)
+    def _parse_raw(self, data: dict) -> list[VacancySchema]:
+        return data
+
+    @property
+    def default_request_payload(self) -> Request:
+        return {
+            "url": "/vacancies",
+            "headers": {
+                self.HEADER_FOR_SECRET: self.API_SECRET
+            },
+            "params": {
+                self.SEARCH_GET_PARAMETER: None
+            }
+        }
