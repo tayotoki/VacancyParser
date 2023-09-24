@@ -1,7 +1,6 @@
 from __future__ import annotations
 
-from enum import Enum
-from typing import Optional, Union
+from typing import Optional, TypeVar
 
 from pydantic import (
     BaseModel,
@@ -14,15 +13,13 @@ from pydantic import (
 )
 
 
-
-
-
 class GlobalConfig:
     model_config = ConfigDict(
         populate_by_name=True
     )
 
 
+# EXTRA MODELS
 class EmployerHH(BaseModel):
     id: str
     name: str
@@ -68,22 +65,32 @@ class DescriptionHH(BaseModel):  # snippet in JSON
     responsibility: str
 
 
-class Types(Enum):
-    Employers = [EmployerSJ, EmployerHH]
-    Areas = [AreaSJ, AreaHH]
+# TYPE VARS
+Employers = TypeVar(
+    "Employers",
+    EmployerHH,
+    EmployerSJ
+)
+
+Areas = TypeVar(
+    "Areas",
+    AreaHH,
+    AreaSJ
+)
 
 
+# MAIN MODELS
 class Vacancy(BaseModel, GlobalConfig):
     id: str | PositiveInt
     name: str = Field(alias="profession")
-    area: AreaHH | AreaSJ = Field(
+    area: Areas = Field(
         validation_alias=AliasChoices(
             "area",
             "town",
         )
     )
     salary: Optional[SalaryHH] = None
-    employer: Types.Employers = Field(
+    employer: Employers = Field(
         validation_alias=AliasChoices(
             "client",
             "employer",

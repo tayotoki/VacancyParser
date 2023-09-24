@@ -14,7 +14,7 @@ class API(ABC):
 
     @abstractmethod
     def get_vacancies(self, search_term: str, **extra_filters):
-        ...
+        pass
 
     def request_method_get(
             self,
