@@ -1,4 +1,5 @@
 from abc import ABC, abstractmethod
+from datetime import datetime
 from typing import Optional, TypedDict, Any
 
 import requests
@@ -19,6 +20,7 @@ class VacancySchema(TypedDict):
     ]
     employer: dict[str, int | str]
     description: dict[str, str] | str
+    published_at: datetime
 
 
 class API(ABC):
@@ -49,7 +51,6 @@ class API(ABC):
             headers = self.default_request_payload["headers"] | headers
         if params:
             params = self.default_request_payload["params"] | params
-            print(params)
 
         with requests.Session() as session:
             response: requests.Response = session.get(
@@ -67,7 +68,3 @@ class API(ABC):
     @abstractmethod
     def default_request_payload(self) -> Request:
         pass
-
-    @property
-    def __name__(self) -> str:
-        return self.__class__.__name__.lower().replace("api", "")  # noqa

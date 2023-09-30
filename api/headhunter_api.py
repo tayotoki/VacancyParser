@@ -1,4 +1,5 @@
 from api_abc import API, Request, VacancySchema
+from datetime import datetime
 
 
 class HeadHunterAPI(API):
@@ -18,7 +19,8 @@ class HeadHunterAPI(API):
                     area=vacancy_fields["area"],
                     salary=vacancy_fields["salary"],
                     employer=vacancy_fields["employer"],
-                    description=vacancy_fields["snippet"]
+                    description=vacancy_fields["snippet"],
+                    published_at=datetime.fromisoformat(vacancy_fields["published_at"])
                 )
             )
 

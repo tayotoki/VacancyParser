@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from credentials import superjob
 
 from api_abc import API, Request, VacancySchema
@@ -25,7 +27,8 @@ class SuperJobAPI(API):
                         "to": vacancy_fields["payment_to"],
                     },
                     employer=vacancy_fields["client"],
-                    description=vacancy_fields["candidat"]
+                    description=vacancy_fields["candidat"],
+                    published_at=datetime.fromtimestamp(vacancy_fields["registered_date"])
                 )
             )
 
