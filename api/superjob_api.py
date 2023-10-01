@@ -2,7 +2,7 @@ from datetime import datetime
 
 from credentials import superjob
 
-from api_abc import API, Request, VacancySchema
+from .api_abc import API, Request, VacancySchema
 
 
 class SuperJobAPI(API):
@@ -28,7 +28,7 @@ class SuperJobAPI(API):
                     },
                     employer=vacancy_fields["client"],
                     description=vacancy_fields["candidat"],
-                    published_at=datetime.fromtimestamp(vacancy_fields["registered_date"])
+                    published_at=str(datetime.fromtimestamp(vacancy_fields["date_published"]))
                 )
             )
 

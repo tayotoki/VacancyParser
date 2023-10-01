@@ -29,3 +29,7 @@ class FileManager(ABC):
     @abstractmethod
     def filter(self, **params):
         pass
+
+    @abstractmethod
+    def clear(self):
+        pass
