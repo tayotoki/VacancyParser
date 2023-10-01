@@ -15,12 +15,10 @@ class VacancySchema(TypedDict):
     id: str | int
     name: str
     area: dict[str, str | int]
-    salary: Optional[
-        dict[str, int | float | str]
-    ]
+    salary: dict[str, int | float | str]
     employer: dict[str, int | str]
     description: dict[str, str] | str
-    published_at: datetime
+    published_at: str  # ISO 8601
 
 
 class API(ABC):

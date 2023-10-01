@@ -1,0 +1,2565 @@
+[
+  {
+    "id": "76608632",
+    "name": "Электромеханик СЦБ и связи",
+    "area": {
+      "id": "1996",
+      "name": "Кингисепп",
+      "url": "https://api.hh.ru/areas/1996"
+    },
+    "salary": null,
+    "employer": {
+      "id": "1244864",
+      "name": "Ультрамар",
+      "url": "https://api.hh.ru/employers/1244864",
+      "alternate_url": "https://hh.ru/employer/1244864",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/2895905.png",
+        "90": "https://hhcdn.ru/employer-logo/2895904.png",
+        "original": "https://hhcdn.ru/employer-logo-original/613688.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1244864",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное или высшее образование по специальности \"Автоматика, телемеханика и связь\" или \"Радиотехника\". Опыт работы от 1 года по трудовой...",
+      "responsibility": "Подержание бесперебойной работы устройств <highlighttext>СЦБ</highlighttext>. Содержание в надлежащем порядке служебное помещение (рабочее место). Своевременное устранение неисправности устройств <highlighttext>СЦБ</highlighttext>."
+    },
+    "published_at": "2023-09-01 20:41:29+03:00"
+  },
+  {
+    "id": "86284694",
+    "name": "Электромеханик сигнализации, централизации и блокировки",
+    "area": {
+      "id": "1457",
+      "name": "Темрюк",
+      "url": "https://api.hh.ru/areas/1457"
+    },
+    "salary": {
+      "from": 36000,
+      "to": 45000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "101861",
+      "name": "ФГУП Росморпорт",
+      "url": "https://api.hh.ru/employers/101861",
+      "alternate_url": "https://hh.ru/employer/101861",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/1054328.jpg",
+        "90": "https://hhcdn.ru/employer-logo/5837953.jpeg",
+        "240": "https://hhcdn.ru/employer-logo/5837954.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=101861",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное образование и профессиональное обучение по профилю устройств сигнализации централизации и блокировки (программы профессиональной подготовки по профессиям рабочих, должностям...",
+      "responsibility": "Проводить техническое обслуживание, текущий ремонт, монтаж и регулировку устройств <highlighttext>СЦБ</highlighttext>. При возникновении отказов устройств <highlighttext>СЦБ</highlighttext> принимать меры к их скорейшему..."
+    },
+    "published_at": "2023-09-05 16:58:50+03:00"
+  },
+  {
+    "id": "76759805",
+    "name": "Электромеханик СЦБ и связи",
+    "area": {
+      "id": "2014",
+      "name": "Сосновый Бор (Ленинградская область)",
+      "url": "https://api.hh.ru/areas/2014"
+    },
+    "salary": null,
+    "employer": {
+      "id": "1244864",
+      "name": "Ультрамар",
+      "url": "https://api.hh.ru/employers/1244864",
+      "alternate_url": "https://hh.ru/employer/1244864",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/2895905.png",
+        "90": "https://hhcdn.ru/employer-logo/2895904.png",
+        "original": "https://hhcdn.ru/employer-logo-original/613688.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1244864",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное или высшее образование по специальности \"Автоматика, телемеханика и связь\" или \"Радиотехника\". Опыт работы от 1 года по трудовой...",
+      "responsibility": "Подержание бесперебойной работы устройств <highlighttext>СЦБ</highlighttext>. Содержание в надлежащем порядке служебное помещение (рабочее место). Своевременное устранение неисправности устройств <highlighttext>СЦБ</highlighttext>."
+    },
+    "published_at": "2023-09-06 14:16:54+03:00"
+  },
+  {
+    "id": "76759806",
+    "name": "Электромеханик СЦБ и связи",
+    "area": {
+      "id": "2013",
+      "name": "Сланцы",
+      "url": "https://api.hh.ru/areas/2013"
+    },
+    "salary": null,
+    "employer": {
+      "id": "1244864",
+      "name": "Ультрамар",
+      "url": "https://api.hh.ru/employers/1244864",
+      "alternate_url": "https://hh.ru/employer/1244864",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/2895905.png",
+        "90": "https://hhcdn.ru/employer-logo/2895904.png",
+        "original": "https://hhcdn.ru/employer-logo-original/613688.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1244864",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное или высшее образование по специальности \"Автоматика, телемеханика и связь\" или \"Радиотехника\". Опыт работы от 1 года по трудовой...",
+      "responsibility": "Подержание бесперебойной работы устройств <highlighttext>СЦБ</highlighttext>. Содержание в надлежащем порядке служебное помещение (рабочее место). Своевременное устранение неисправности устройств <highlighttext>СЦБ</highlighttext>."
+    },
+    "published_at": "2023-09-06 14:16:54+03:00"
+  },
+  {
+    "id": "83202108",
+    "name": "Электромеханик устройств СЦБ и средств связи",
+    "area": {
+      "id": "1240",
+      "name": "Новокузнецк",
+      "url": "https://api.hh.ru/areas/1240"
+    },
+    "salary": {
+      "from": 73500,
+      "to": 73500,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "3732046",
+      "name": "СИБЭНЕРГОУГОЛЬ",
+      "url": "https://api.hh.ru/employers/3732046",
+      "alternate_url": "https://hh.ru/employer/3732046",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/903638.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/4055239.jpeg",
+        "240": "https://hhcdn.ru/employer-logo/4055240.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3732046",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Высшее профессиональное (техническое) образование и стаж работы электромонтером 6 месяцев или среднее профессиональное образование и стаж работы электромонтером от 2...",
+      "responsibility": "Техническое обслуживание и ремонт напольного оборудования устройств <highlighttext>СЦБ</highlighttext>: стрелок , светофоров, путевых коробок ,рельсовых цепей, переездного оборудования."
+    },
+    "published_at": "2023-09-08 10:21:20+03:00"
+  },
+  {
+    "id": "86634011",
+    "name": "Электромеханик/Монтажник СЦБ",
+    "area": {
+      "id": "22",
+      "name": "Владивосток",
+      "url": "https://api.hh.ru/areas/22"
+    },
+    "salary": {
+      "from": 180000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "1875474",
+      "name": "Монолит-Строй",
+      "url": "https://api.hh.ru/employers/1875474",
+      "alternate_url": "https://hh.ru/employer/1875474",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/5497269.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/5497268.jpeg",
+        "original": "https://hhcdn.ru/employer-logo-original/969313.jpg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1875474",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Опыт работы электромонтажником по <highlighttext>СЦБ</highlighttext> и связи от 2-х лет. Наличие необходимых квалификационных удостоверений и допусков на данные виды...",
+      "responsibility": "Выполнение работ по монтажу устройств сигнализации, централизации, блокировки и связи на участке строительства новой ветки железной дороги."
+    },
+    "published_at": "2023-09-13 04:33:33+03:00"
+  },
+  {
+    "id": "86639923",
+    "name": "Электромеханик, г.Южно-Сахалинск",
+    "area": {
+      "id": "7529",
+      "name": "Первомайск (Сахалинская область)",
+      "url": "https://api.hh.ru/areas/7529"
+    },
+    "salary": {
+      "from": 98000,
+      "to": 98000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "БЯЗАТЕЛЬНО!!! Высшее профессиональное образование \"Автоматика,телемеханика, связь в жд транспорте\".",
+      "responsibility": "Содержит в порядке и по описи техническую документацию на обслуживаемые устройства <highlighttext>СЦБ</highlighttext>, обеспечивает приведение в соответствие действующих устройств <highlighttext>СЦБ</highlighttext> утвержденной..."
+    },
+    "published_at": "2023-09-13 07:57:44+03:00"
+  },
+  {
+    "id": "86673182",
+    "name": "Энергодиспетчер",
+    "area": {
+      "id": "10280",
+      "name": "Южный (Тульская область)",
+      "url": "https://api.hh.ru/areas/10280"
+    },
+    "salary": {
+      "from": 55000,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Высшее образование электроснабжение ж.д.; инженер путей сообщения –<highlighttext>электромеханик</highlighttext>. Опыт работы по обслуживанию устройств электроснабжения не менее 2-х лет.",
+      "responsibility": "Оперативное диспетчерское управление устройствами электроснабжения (оборудование тяговых подстанций, контактной сети, линий электроснабжения устройств <highlighttext>СЦБ</highlighttext> и др). Контроль за своевременным внесением..."
+    },
+    "published_at": "2023-09-13 14:34:54+03:00"
+  },
+  {
+    "id": "86693521",
+    "name": "Производитель работ участка сигнализации, централизации и блокировки",
+    "area": {
+      "id": "35",
+      "name": "Иркутск",
+      "url": "https://api.hh.ru/areas/35"
+    },
+    "salary": {
+      "from": null,
+      "to": 170000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "769910",
+      "name": "Р-Индустрия, Корпорация",
+      "url": "https://api.hh.ru/employers/769910",
+      "alternate_url": "https://hh.ru/employer/769910",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/908948.png",
+        "240": "https://hhcdn.ru/employer-logo/908949.png",
+        "original": "https://hhcdn.ru/employer-logo-original/140313.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=769910",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Знание устройств <highlighttext>СЦБ</highlighttext> и связи, правил устройства и технической эксплуатации <highlighttext>СЦБ</highlighttext> (опыт работы <highlighttext>электромехаником</highlighttext>, мастером, прорабом участка <highlighttext>СЦБ</highlighttext> и связи...",
+      "responsibility": "Организовывать проведение работ на объекте, открытие и закрытие объекта, контролировать качество исполнения работ. Взаимодействовать с заказчиками по урегулированию и решению..."
+    },
+    "published_at": "2023-09-14 05:42:13+03:00"
+  },
+  {
+    "id": "86693543",
+    "name": "Начальник участка сигнализации, централизации и блокировки",
+    "area": {
+      "id": "35",
+      "name": "Иркутск",
+      "url": "https://api.hh.ru/areas/35"
+    },
+    "salary": {
+      "from": null,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "769910",
+      "name": "Р-Индустрия, Корпорация",
+      "url": "https://api.hh.ru/employers/769910",
+      "alternate_url": "https://hh.ru/employer/769910",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/908948.png",
+        "240": "https://hhcdn.ru/employer-logo/908949.png",
+        "original": "https://hhcdn.ru/employer-logo-original/140313.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=769910",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Знание устройств <highlighttext>СЦБ</highlighttext> и связи, правил устройства и технической эксплуатации <highlighttext>СЦБ</highlighttext> (опыт работы <highlighttext>электромехаником</highlighttext>, мастером, прорабом участка <highlighttext>СЦБ</highlighttext> и связи...",
+      "responsibility": "Руководить участком строительства <highlighttext>СЦБ</highlighttext>. Работать с проектной документацией. Вести контроль за обеспечением материально-техническими ресурсами - составлять заявки на материалы, контролировать..."
+    },
+    "published_at": "2023-09-14 05:43:53+03:00"
+  },
+  {
+    "id": "86724103",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "1450",
+      "name": "Крымск",
+      "url": "https://api.hh.ru/areas/1450"
+    },
+    "salary": {
+      "from": 49000,
+      "to": 64000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "2813861",
+      "name": "Славянск ЭКО",
+      "url": "https://api.hh.ru/employers/2813861",
+      "alternate_url": "https://hh.ru/employer/2813861",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/3245328.png",
+        "240": "https://hhcdn.ru/employer-logo/3245329.png",
+        "original": "https://hhcdn.ru/employer-logo-original/701053.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2813861",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Образование не ниже среднего профессионального (техническое). Опыт работы в РЖД в должности <highlighttext>электромеханика</highlighttext> <highlighttext>СЦБ</highlighttext> будет приоритетным.",
+      "responsibility": "Обеспечивать исправное состояние, безаварийную и надежную работу обслуживаемых устройств и оборудования железнодорожной автоматики и телемеханики, правильную их эксплуатацию, своевременный качественный..."
+    },
+    "published_at": "2023-09-14 13:54:16+03:00"
+  },
+  {
+    "id": "86724101",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "1456",
+      "name": "Славянск-на-Кубани",
+      "url": "https://api.hh.ru/areas/1456"
+    },
+    "salary": {
+      "from": 49000,
+      "to": 64000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "2813861",
+      "name": "Славянск ЭКО",
+      "url": "https://api.hh.ru/employers/2813861",
+      "alternate_url": "https://hh.ru/employer/2813861",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/3245328.png",
+        "240": "https://hhcdn.ru/employer-logo/3245329.png",
+        "original": "https://hhcdn.ru/employer-logo-original/701053.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2813861",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Образование не ниже среднего профессионального (техническое). Опыт работы в РЖД в должности <highlighttext>электромеханика</highlighttext> <highlighttext>СЦБ</highlighttext> будет приоритетным.",
+      "responsibility": "Обеспечивать исправное состояние, безаварийную и надежную работу обслуживаемых устройств и оборудования железнодорожной автоматики и телемеханики, правильную их эксплуатацию, своевременный качественный..."
+    },
+    "published_at": "2023-09-14 13:54:16+03:00"
+  },
+  {
+    "id": "86724102",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "53",
+      "name": "Краснодар",
+      "url": "https://api.hh.ru/areas/53"
+    },
+    "salary": {
+      "from": 49000,
+      "to": 64000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "2813861",
+      "name": "Славянск ЭКО",
+      "url": "https://api.hh.ru/employers/2813861",
+      "alternate_url": "https://hh.ru/employer/2813861",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/3245328.png",
+        "240": "https://hhcdn.ru/employer-logo/3245329.png",
+        "original": "https://hhcdn.ru/employer-logo-original/701053.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2813861",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Образование не ниже среднего профессионального (техническое). Опыт работы в РЖД в должности <highlighttext>электромеханика</highlighttext> <highlighttext>СЦБ</highlighttext> будет приоритетным.",
+      "responsibility": "Обеспечивать исправное состояние, безаварийную и надежную работу обслуживаемых устройств и оборудования железнодорожной автоматики и телемеханики, правильную их эксплуатацию, своевременный качественный..."
+    },
+    "published_at": "2023-09-14 13:54:16+03:00"
+  },
+  {
+    "id": "86756128",
+    "name": "Электромеханик",
+    "area": {
+      "id": "2",
+      "name": "Санкт-Петербург",
+      "url": "https://api.hh.ru/areas/2"
+    },
+    "salary": {
+      "from": null,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Образование высшее, средне-профессиональное или готовность пройти переподготовку по профилю. Опыт работы приветствуется.",
+      "responsibility": "Производство работ по техническому обслуживанию и ремонту устройств <highlighttext>СЦБ</highlighttext>. Выполнение работ по утвержденным планам-графикам технического обслуживания, оперативному плану, суточному..."
+    },
+    "published_at": "2023-09-15 09:05:32+03:00"
+  },
+  {
+    "id": "86581974",
+    "name": "Электромеханик устройств сигнализации, централизации, блокировки",
+    "area": {
+      "id": "1191",
+      "name": "Черногорск",
+      "url": "https://api.hh.ru/areas/1191"
+    },
+    "salary": {
+      "from": 73000,
+      "to": 73000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "568",
+      "name": "СУЭК, Сибирская Угольная Энергетическая Компания",
+      "url": "https://api.hh.ru/employers/568",
+      "alternate_url": "https://hh.ru/employer/568",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/702612.png",
+        "90": "https://hhcdn.ru/employer-logo/3251564.png",
+        "240": "https://hhcdn.ru/employer-logo/3251565.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=568",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное образование.",
+      "responsibility": "Производит техническое обслуживание и ремонт устройств <highlighttext>СЦБ</highlighttext>. Участвует в проведении месячных и комиссионных осмотров. Организует работу электромонтеров. Обеспечивает наличие, хранение..."
+    },
+    "published_at": "2023-09-15 09:52:47+03:00"
+  },
+  {
+    "id": "86721674",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "104",
+      "name": "Челябинск",
+      "url": "https://api.hh.ru/areas/104"
+    },
+    "salary": null,
+    "employer": {
+      "id": "4029257",
+      "name": "РУСАЛ, Центр подбора персонала",
+      "url": "https://api.hh.ru/employers/4029257",
+      "alternate_url": "https://hh.ru/employer/4029257",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/649739.png",
+        "90": "https://hhcdn.ru/employer-logo/3040104.png",
+        "240": "https://hhcdn.ru/employer-logo/3040105.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4029257",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Опыт контроля ведения технической документации, правильности исполнения электрических схем устройств <highlighttext>СЦБ</highlighttext>, их соответствия действующим эксплуатируемым устройствам. Знание стандартных программ MS...",
+      "responsibility": "...устройств <highlighttext>СЦБ</highlighttext> (сигнализация, централизация и блокировка). Организация выхода работников участка <highlighttext>СЦБ</highlighttext> для обеспечения бесперебойной работы при неисправностях устройств <highlighttext>СЦБ</highlighttext> в..."
+    },
+    "published_at": "2023-09-15 10:36:56+03:00"
+  },
+  {
+    "id": "86721673",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "3",
+      "name": "Екатеринбург",
+      "url": "https://api.hh.ru/areas/3"
+    },
+    "salary": null,
+    "employer": {
+      "id": "4029257",
+      "name": "РУСАЛ, Центр подбора персонала",
+      "url": "https://api.hh.ru/employers/4029257",
+      "alternate_url": "https://hh.ru/employer/4029257",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/649739.png",
+        "90": "https://hhcdn.ru/employer-logo/3040104.png",
+        "240": "https://hhcdn.ru/employer-logo/3040105.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4029257",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Опыт контроля ведения технической документации, правильности исполнения электрических схем устройств <highlighttext>СЦБ</highlighttext>, их соответствия действующим эксплуатируемым устройствам. Знание стандартных программ MS...",
+      "responsibility": "...устройств <highlighttext>СЦБ</highlighttext> (сигнализация, централизация и блокировка). Организация выхода работников участка <highlighttext>СЦБ</highlighttext> для обеспечения бесперебойной работы при неисправностях устройств <highlighttext>СЦБ</highlighttext> в..."
+    },
+    "published_at": "2023-09-15 10:37:04+03:00"
+  },
+  {
+    "id": "86279621",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "1753",
+      "name": "Череповец",
+      "url": "https://api.hh.ru/areas/1753"
+    },
+    "salary": {
+      "from": 60000,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Наличие среднего профессионального образования по специальностям \" Автоматика и телемеханика на железнодорожном транспорте\" ; \"Электроснабжение\". Готовы рассмотреть кандидата без профильного железнодорожного образования...",
+      "responsibility": "Контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования. Электромонтажные и кабельные работы. Составление графиков и актов проверки замены..."
+    },
+    "published_at": "2023-09-15 11:59:29+03:00"
+  },
+  {
+    "id": "73858929",
+    "name": "Электромеханик Службы сигнализации, централизации и блокировки",
+    "area": {
+      "id": "2",
+      "name": "Санкт-Петербург",
+      "url": "https://api.hh.ru/areas/2"
+    },
+    "salary": {
+      "from": 65000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "218800",
+      "name": "Петербургский Метрополитен, государственное унитарное предприятие",
+      "url": "https://api.hh.ru/employers/218800",
+      "alternate_url": "https://hh.ru/employer/218800",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/188960.png",
+        "90": "https://hhcdn.ru/employer-logo/854486.png",
+        "240": "https://hhcdn.ru/employer-logo/854487.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=218800",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "От Вас потребуется: - наличие среднего профессионального или высшего образования по направлению подготовки \"Автоматика и телемеханика на ЖД\". - опыт работы не...",
+      "responsibility": "Выполнение работ по техническому обслуживанию устройств <highlighttext>СЦБ</highlighttext>, замена аппаратуры."
+    },
+    "published_at": "2023-09-15 14:07:10+03:00"
+  },
+  {
+    "id": "86783908",
+    "name": "Электромеханик СЦБ для МЦД-3/МЦД-4",
+    "area": {
+      "id": "2065",
+      "name": "Раменское",
+      "url": "https://api.hh.ru/areas/2065"
+    },
+    "salary": {
+      "from": 110000,
+      "to": 110000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Наличие среднего профессионального или высшего профильного образования по специальности «Автоматика и телемеханика на ж.д. транспорте» или переподготовки по данному...",
+      "responsibility": "Контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования. Электромонтажные и кабельные работы. Составление графиков и актов проверки замены..."
+    },
+    "published_at": "2023-09-15 15:07:55+03:00"
+  },
+  {
+    "id": "86815082",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "102",
+      "name": "Хабаровск",
+      "url": "https://api.hh.ru/areas/102"
+    },
+    "salary": {
+      "from": 80000,
+      "to": 100000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "10321859",
+      "name": "Февральская дистанция СЦБ",
+      "url": "https://api.hh.ru/employers/10321859",
+      "alternate_url": "https://hh.ru/employer/10321859",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10321859",
+      "accredited_it_employer": false,
+      "trusted": false
+    },
+    "description": {
+      "requirement": "Опыт. Обучаемость.",
+      "responsibility": "Обслуживание устройств <highlighttext>СЦБ</highlighttext>. Выполнение графика тех процесса. Расследование предотказных состояний устройств."
+    },
+    "published_at": "2023-09-17 10:24:25+03:00"
+  },
+  {
+    "id": "86845421",
+    "name": "Заместитель начальника дистанции",
+    "area": {
+      "id": "1088",
+      "name": "Сортавала",
+      "url": "https://api.hh.ru/areas/1088"
+    },
+    "salary": {
+      "from": 130000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Высшее образование по специальности \"Автоматика, телемеханика\". Опыт в работе в должности старшего <highlighttext>электромеханика</highlighttext> <highlighttext>СЦБ</highlighttext> от 3х лет. ",
+      "responsibility": "Осуществление руководства эксплуатацией устройств <highlighttext>СЦБ</highlighttext> дистанции и координация по вопросам, входящим в его компетенцию, деятельность бригад по обслуживанию устройств <highlighttext>СЦБ</highlighttext>..."
+    },
+    "published_at": "2023-09-18 10:57:03+03:00"
+  },
+  {
+    "id": "86875347",
+    "name": "Старший электромеханик СЦБ",
+    "area": {
+      "id": "2065",
+      "name": "Раменское",
+      "url": "https://api.hh.ru/areas/2065"
+    },
+    "salary": {
+      "from": 140000,
+      "to": 140000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Высшее профессиональное образование по специальности «Автоматика, телемеханика, связь на ж.д. транспорте». Опыт работы от 1 года. Медицинский осмотр средней...",
+      "responsibility": "Руководство бригадой по обслуживанию устройств <highlighttext>СЦБ</highlighttext>. Контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования. Электромонтажные работы. "
+    },
+    "published_at": "2023-09-18 16:02:29+03:00"
+  },
+  {
+    "id": "86903927",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "54",
+      "name": "Красноярск",
+      "url": "https://api.hh.ru/areas/54"
+    },
+    "salary": {
+      "from": 120000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "2393631",
+      "name": "Антарес С",
+      "url": "https://api.hh.ru/employers/2393631",
+      "alternate_url": "https://hh.ru/employer/2393631",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/2109274.png",
+        "original": "https://hhcdn.ru/employer-logo-original/416800.png",
+        "240": "https://hhcdn.ru/employer-logo/2109275.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2393631",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное (техническое) профильное образование. Знание правил технической эксплуатации железных дорог, инструкции по сигнализации и маневровой работе, электроснабжения на ж...",
+      "responsibility": "Регулирование постовых и напольных устройств электрической централизации и сигнализации перегонных установок автоблокировки. Переключение устройств <highlighttext>СЦБ</highlighttext> без отключения. Включение и регулирование..."
+    },
+    "published_at": "2023-09-19 10:18:56+03:00"
+  },
+  {
+    "id": "87095198",
+    "name": "Электромонтер СЦБ",
+    "area": {
+      "id": "1194",
+      "name": "Борзя",
+      "url": "https://api.hh.ru/areas/1194"
+    },
+    "salary": null,
+    "employer": {
+      "id": "740",
+      "name": "Норникель",
+      "url": "https://api.hh.ru/employers/740",
+      "alternate_url": "https://hh.ru/employer/740",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/1837787.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/1837786.jpeg",
+        "original": "https://hhcdn.ru/employer-logo-original/348880.jpg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=740",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Наличие удостоверения. Опыт работы в аналогичной должности от года.",
+      "responsibility": "Алек Завод: Проверка целостности работ напольных устройств, приводов стрелочных переводов, светофоров, переездов, релейного оборудования и т.д. подчиняются старшему <highlighttext>электромеханику</highlighttext>."
+    },
+    "published_at": "2023-09-21 03:29:55+03:00"
+  },
+  {
+    "id": "87095227",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "1194",
+      "name": "Борзя",
+      "url": "https://api.hh.ru/areas/1194"
+    },
+    "salary": null,
+    "employer": {
+      "id": "740",
+      "name": "Норникель",
+      "url": "https://api.hh.ru/employers/740",
+      "alternate_url": "https://hh.ru/employer/740",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/1837787.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/1837786.jpeg",
+        "original": "https://hhcdn.ru/employer-logo-original/348880.jpg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=740",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Наличие удостоверения. Опыт работы в аналогичной должности от года.",
+      "responsibility": "Выполнение работ по текущему содержанию объектов сигнализации, централизации и блокировки (ст. ГазЗавод, ст. Быстринская, Перифирийный парк ст. Быстринская). "
+    },
+    "published_at": "2023-09-21 03:30:19+03:00"
+  },
+  {
+    "id": "87127860",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "1",
+      "name": "Москва",
+      "url": "https://api.hh.ru/areas/1"
+    },
+    "salary": {
+      "from": 120000,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Наличие среднего специального или высшего образования по профилю «Автоматика и телемеханика на ж.д. транспорте», либо переподготовка по данному профилю...",
+      "responsibility": "Контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования. Электромонтажные и кабельные работы. Составление графиков и актов проверки замены..."
+    },
+    "published_at": "2023-09-21 09:53:51+03:00"
+  },
+  {
+    "id": "87142629",
+    "name": "Начальник участка производства",
+    "area": {
+      "id": "1561",
+      "name": "Рузаевка",
+      "url": "https://api.hh.ru/areas/1561"
+    },
+    "salary": {
+      "from": 62000,
+      "to": 70000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Высшее железнодорожное образование \"Автоматизация , сигнализация, блокировка\".",
+      "responsibility": "...выполнения старшим <highlighttext>электромехаником</highlighttext> проверок соответствия действующих устройств утвержденной технической документации. Устранении причин отказов, повреждений устройств <highlighttext>СЦБ</highlighttext> на участках дистанции <highlighttext>СЦБ</highlighttext>."
+    },
+    "published_at": "2023-09-21 11:34:45+03:00"
+  },
+  {
+    "id": "87151992",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "1454",
+      "name": "Новороссийск",
+      "url": "https://api.hh.ru/areas/1454"
+    },
+    "salary": null,
+    "employer": {
+      "id": "590886",
+      "name": "ОТЭКО",
+      "url": "https://api.hh.ru/employers/590886",
+      "alternate_url": "https://hh.ru/employer/590886",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=590886",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Высшее/среднее техническое образование. Опыт работы от 1 года в структуре <highlighttext>СЦБ</highlighttext> железнодорожного транспорта. Готовность к переезду в Краснодарский край. ",
+      "responsibility": "Выполнение работы по техническому обслуживанию и ремонту устройств сигнализации, централизации и блокировки (далее <highlighttext>СЦБ</highlighttext>). Контроль за исправностью оборудования, ручного и..."
+    },
+    "published_at": "2023-09-21 13:00:15+03:00"
+  },
+  {
+    "id": "80975447",
+    "name": "Электромеханик СЦБ и связи",
+    "area": {
+      "id": "1994",
+      "name": "Ивангород",
+      "url": "https://api.hh.ru/areas/1994"
+    },
+    "salary": null,
+    "employer": {
+      "id": "1244864",
+      "name": "Ультрамар",
+      "url": "https://api.hh.ru/employers/1244864",
+      "alternate_url": "https://hh.ru/employer/1244864",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/2895905.png",
+        "90": "https://hhcdn.ru/employer-logo/2895904.png",
+        "original": "https://hhcdn.ru/employer-logo-original/613688.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1244864",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное или высшее образование по специальности \"Автоматика, телемеханика и связь\" или \"Радиотехника\". Опыт работы от 1 года по трудовой...",
+      "responsibility": "Подержание бесперебойной работы устройств <highlighttext>СЦБ</highlighttext>. Содержание в надлежащем порядке служебное помещение (рабочее место). Своевременное устранение неисправности устройств <highlighttext>СЦБ</highlighttext>."
+    },
+    "published_at": "2023-09-21 19:21:30+03:00"
+  },
+  {
+    "id": "87184438",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "1814",
+      "name": "Рыбинск",
+      "url": "https://api.hh.ru/areas/1814"
+    },
+    "salary": {
+      "from": 44000,
+      "to": 44000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное или высшее образование по специальностям: \"Автоматика и телемеханика на ж.д.транспорте\", \"Системы обеспечения движения поездов\". Готовы рассмотреть соискателей по...",
+      "responsibility": "Контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования. Электромонтажные и кабельные работы. Составление графиков и актов проверки замены..."
+    },
+    "published_at": "2023-09-22 08:44:06+03:00"
+  },
+  {
+    "id": "87186999",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "112",
+      "name": "Ярославль",
+      "url": "https://api.hh.ru/areas/112"
+    },
+    "salary": {
+      "from": 45000,
+      "to": 45000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное или высшее образование (технический профиль) с дальнейшей переподготовкой. Опыт работы будет являться преимуществом.",
+      "responsibility": "Контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования. Электромонтажные и кабельные работы. Составление графиков и актов проверки замены..."
+    },
+    "published_at": "2023-09-22 09:25:09+03:00"
+  },
+  {
+    "id": "87196593",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "25",
+      "name": "Вологда",
+      "url": "https://api.hh.ru/areas/25"
+    },
+    "salary": {
+      "from": 55000,
+      "to": 55000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Наличие среднего профессионального образования по специальностям \" Автоматика и телемеханика на железнодорожном транспорте\" ; \"Электроснабжение\". Готовы рассмотреть кандидата без профильного железнодорожного образования...",
+      "responsibility": "Контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования. Электромонтажные и кабельные работы. Составление графиков и актов проверки замены..."
+    },
+    "published_at": "2023-09-22 11:18:04+03:00"
+  },
+  {
+    "id": "85901290",
+    "name": "Электромеханик Симферопольской дистанции СЦБ",
+    "area": {
+      "id": "131",
+      "name": "Симферополь",
+      "url": "https://api.hh.ru/areas/131"
+    },
+    "salary": {
+      "from": 47500,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "3159308",
+      "name": "ФГУП Крымская железная дорога",
+      "url": "https://api.hh.ru/employers/3159308",
+      "alternate_url": "https://hh.ru/employer/3159308",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/5566161.png",
+        "90": "https://hhcdn.ru/employer-logo/5566160.png",
+        "original": "https://hhcdn.ru/employer-logo-original/986337.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3159308",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное (техническое) образование соответствующего направления (техник-<highlighttext>электромеханик</highlighttext>, техник-электрик) по специальности «Автоматика и телемеханика на ж.д. транспорте».",
+      "responsibility": "Следит за нормальной работой устройств <highlighttext>СЦБ</highlighttext>, принимает незамедлительные меры для устранения отказов и повреждений обслуживаемых устройств с безусловным соблюдением требований..."
+    },
+    "published_at": "2023-09-22 16:57:34+03:00"
+  },
+  {
+    "id": "87225853",
+    "name": "Начальник участка производства",
+    "area": {
+      "id": "1777",
+      "name": "Мантурово",
+      "url": "https://api.hh.ru/areas/1777"
+    },
+    "salary": {
+      "from": null,
+      "to": 70000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "23427",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/23427",
+      "alternate_url": "https://hh.ru/employer/23427",
+      "logo_urls": {
+        "90": "https://hhcdn.ru/employer-logo/314432.png",
+        "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+        "240": "https://hhcdn.ru/employer-logo/387289.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "...профильное образование по специальности \"Автоматика и телемеханика\" или \"Системы обеспечения движения поездов\". Опыт работы с устройствами ж.д.автоматики и телемеханики (<highlighttext>СЦБ</highlighttext>).",
+      "responsibility": "Технические занятия с работниками участка, участие в обучении работников других служб правилам пользования устройствами <highlighttext>СЦБ</highlighttext>. Руководство работой бригад (<highlighttext>электромеханики</highlighttext> и..."
+    },
+    "published_at": "2023-09-22 19:35:44+03:00"
+  },
+  {
+    "id": "87240813",
+    "name": "Электромеханик/Монтажник СЦБ",
+    "area": {
+      "id": "78",
+      "name": "Самара",
+      "url": "https://api.hh.ru/areas/78"
+    },
+    "salary": {
+      "from": 180000,
+      "to": 200000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "1875474",
+      "name": "Монолит-Строй",
+      "url": "https://api.hh.ru/employers/1875474",
+      "alternate_url": "https://hh.ru/employer/1875474",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/5497269.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/5497268.jpeg",
+        "original": "https://hhcdn.ru/employer-logo-original/969313.jpg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1875474",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Опыт работы электромонтажником по <highlighttext>СЦБ</highlighttext> и связи от 2-х лет. Наличие необходимых квалификационных удостоверений и допусков на данные виды...",
+      "responsibility": "Выполнение работ по монтажу устройств сигнализации, централизации, блокировки и связи на участке строительства новой ветки железной дороги."
+    },
+    "published_at": "2023-09-24 14:12:52+03:00"
+  },
+  {
+    "id": "85901081",
+    "name": "Электромеханик Джанкойской дистанции СЦБ",
+    "area": {
+      "id": "2116",
+      "name": "Керчь",
+      "url": "https://api.hh.ru/areas/2116"
+    },
+    "salary": {
+      "from": 47500,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "3159308",
+      "name": "ФГУП Крымская железная дорога",
+      "url": "https://api.hh.ru/employers/3159308",
+      "alternate_url": "https://hh.ru/employer/3159308",
+      "logo_urls": {
+        "240": "https://hhcdn.ru/employer-logo/5566161.png",
+        "90": "https://hhcdn.ru/employer-logo/5566160.png",
+        "original": "https://hhcdn.ru/employer-logo-original/986337.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3159308",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное (техническое) образование соответствующего направления (техник-<highlighttext>электромеханик</highlighttext>, техник-электрик) по специальности «Автоматика и телемеханика на ж.д. транспорте».",
+      "responsibility": "Следит за нормальной работой устройств <highlighttext>СЦБ</highlighttext>, принимает незамедлительные меры для устранения отказов и повреждений обслуживаемых устройств с безусловным соблюдением требований..."
+    },
+    "published_at": "2023-09-25 08:09:48+03:00"
+  },
+  {
+    "id": "87308852",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "1440",
+      "name": "Анапа",
+      "url": "https://api.hh.ru/areas/1440"
+    },
+    "salary": {
+      "from": 60000,
+      "to": 60000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "5593637",
+      "name": "Трейд Палаццо",
+      "url": "https://api.hh.ru/employers/5593637",
+      "alternate_url": "https://hh.ru/employer/5593637",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5593637",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Высшее/среднее техническое образование. Опыт работы от 1 года в структуре железнодорожного транспорта. Наличие группы по электробезопасности.",
+      "responsibility": "Выполнение работы по техническому обслуживанию и ремонту устройств сигнализации, централизации и блокировки (<highlighttext>СЦБ</highlighttext>). Замена аппаратуры и оборудования <highlighttext>СЦБ</highlighttext>. "
+    },
+    "published_at": "2023-09-25 20:07:32+03:00"
+  },
+  {
+    "id": "87308910",
+    "name": "Старший электромеханик СЦБ",
+    "area": {
+      "id": "1440",
+      "name": "Анапа",
+      "url": "https://api.hh.ru/areas/1440"
+    },
+    "salary": {
+      "from": 80000,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "5593637",
+      "name": "Трейд Палаццо",
+      "url": "https://api.hh.ru/employers/5593637",
+      "alternate_url": "https://hh.ru/employer/5593637",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5593637",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Высшее/среднее техническое образование. Опыт работы от 3 лет в структуре железнодорожного транспорта. Читать рабочие чертежи, электрические схемы, схемы (таблицы...",
+      "responsibility": "...открытых участках линий. Выполнение необходимых измерений электрических и механических параметров аппаратуры. Электромонтажные и кабельные работы. Замена аппаратуры и оборудования <highlighttext>СЦБ</highlighttext>."
+    },
+    "published_at": "2023-09-25 20:14:16+03:00"
+  },
+  {
+    "id": 47350720,
+    "name": "Электромеханик по средствам автоматики и приборам технологического оборудования",
+    "area": {
+      "id": 312,
+      "title": "Смоленск",
+      "declension": "в Смоленске",
+      "hasMetro": false,
+      "genitive": "Смоленска"
+    },
+    "salary": {
+      "from": 47000,
+      "to": 0
+    },
+    "employer": {
+      "id": 707265,
+      "title": "Транснефть-Балтика",
+      "link": "https://www.superjob.ru/clients/transneft-baltika-707265/vacancies.html",
+      "industry": [],
+      "description": "Транспортировка нефти.",
+      "vacancy_count": 21,
+      "staff_count": "1000 — 5000",
+      "client_logo": null,
+      "address": null,
+      "addresses": [],
+      "url": "https://baltic.transneft.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1310121752,
+      "town": {
+        "id": 14,
+        "title": "Санкт-Петербург",
+        "declension": "в Санкт-Петербурге",
+        "hasMetro": true,
+        "genitive": "Санкт-Петербурга"
+      }
+    },
+    "description": "Обязанности:\n• Обеспечивает исправное состояние, безаварийную и надежную работу обслуживаемых устройств и оборудования, правильную их эксплуатацию, своевременный качественный ремонт.\n• Разработка э/проектов на системы автоматического управления и электропитания, авторский надзор.\nТребования:\n• Среднее профессиональное образование\n• Наличие удостоверения по специальности\nУсловия:\n• Работа связана со служебными поездками\n• \nРабота в крупной производственной компании\n• \n Широкий социальный пакет: медицинское страхование, премия к профессиональному празднику, доплата к отпуску, частичная компенсация санаторного- курортного отдыха и лечения, приобретение спортивных абонементов\n• \n Стабильная выплата заработной платы:",
+    "published_at": "2023-09-26 13:03:51"
+  },
+  {
+    "id": 47159046,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 56,
+      "title": "Хабаровск",
+      "declension": "в Хабаровске",
+      "hasMetro": false,
+      "genitive": "Хабаровска"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159047,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 731,
+      "title": "Комсомольск-на-Амуре",
+      "declension": "в Комсомольске-на-Амуре",
+      "hasMetro": false,
+      "genitive": "Комсомольск-на-Амуре"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159048,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 390,
+      "title": "Благовещенск (Амурская область)",
+      "declension": "в Благовещенске",
+      "hasMetro": false,
+      "genitive": "Благовещенска"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159049,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 403,
+      "title": "Чита",
+      "declension": "в Чите",
+      "hasMetro": false,
+      "genitive": "Читы"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159050,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 141,
+      "title": "Иркутск",
+      "declension": "в Иркутске",
+      "hasMetro": false,
+      "genitive": "Иркутска"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159051,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 130,
+      "title": "Красноярск",
+      "declension": "в Красноярске",
+      "hasMetro": false,
+      "genitive": "Красноярска"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159052,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 70,
+      "title": "Владивосток",
+      "declension": "во Владивостоке",
+      "hasMetro": false,
+      "genitive": "Владивостока"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159053,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 377,
+      "title": "Улан-Удэ",
+      "declension": "в Улан-Удэ",
+      "hasMetro": false,
+      "genitive": "Улан-Удэ"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159054,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 387,
+      "title": "Якутск",
+      "declension": "в Якутске",
+      "hasMetro": false,
+      "genitive": "Якутска"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": 47159055,
+    "name": "Электромонтажник СЦБ, электромеханик СЦБ",
+    "area": {
+      "id": 383,
+      "title": "Абакан",
+      "declension": "в Абакане",
+      "hasMetro": false,
+      "genitive": "Абакана"
+    },
+    "salary": {
+      "from": 90000,
+      "to": 150000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Строительная компания ООО \"ПРОМСТРОЙ\" примет на работу Электромонтажников (электромонтеров), электромехаников СЦБ.\nОбязанности:\n• монтаж: железнодорожных светофоров, путевых коробок, муфт;\n• работа с монтажными и принципиальными схемами;\n• набирать монтаж в электроприводах, светофорах, путевых коробках.\nТребования:\n• от 1 года по профессии электромонтажник (электромонтер), электромонтажник по сигнализациие, централизации и блокировки (СЦБ);\n• средне-профессиональное образование по данной специальности;\n• от 3 группы по электробезопасности.\nУсловия работы:\n• график вахты: 90/30; 60/30 (по договоренности);\n• заработная плата от 90 000 до 150 000 в месяц (на руки);\n• официальное трудоустройство;\n• стабильная заработная плата два раза в месяц, без задержек;\n• питание, проживание, проезд и спецодежда - за счет работодателя;\n• вахтовый метод работы.",
+    "published_at": "2023-09-27 06:52:00"
+  },
+  {
+    "id": "87398986",
+    "name": "Электромеханик системы централизации и блокировки (СЦБ)",
+    "area": {
+      "id": "12",
+      "name": "Благовещенск (Амурская область)",
+      "url": "https://api.hh.ru/areas/12"
+    },
+    "salary": {
+      "from": null,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "85385",
+      "name": "ЭЛСИ",
+      "url": "https://api.hh.ru/employers/85385",
+      "alternate_url": "https://hh.ru/employer/85385",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/1071874.jpg",
+        "240": "https://hhcdn.ru/employer-logo/5908126.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/5908125.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=85385",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднетехническое, высшее образование (техническое) образование. «Автоматика и телемеханика». Коммуникабельность. Знание и умение работы на ПК. Опыт работы на ЖД транспорте...",
+      "responsibility": "Замена приборов <highlighttext>СЦБ</highlighttext> в соответствии с установленной периодичностью. Участие в комиссионных осмотрах, в проведении проверок устройств <highlighttext>СЦБ</highlighttext>. Устранение выявленных по..."
+    },
+    "published_at": "2023-09-27 11:51:30+03:00"
+  },
+  {
+    "id": "87398990",
+    "name": "Электромеханик системы централизации и блокировки (СЦБ)",
+    "area": {
+      "id": "102",
+      "name": "Хабаровск",
+      "url": "https://api.hh.ru/areas/102"
+    },
+    "salary": {
+      "from": null,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "85385",
+      "name": "ЭЛСИ",
+      "url": "https://api.hh.ru/employers/85385",
+      "alternate_url": "https://hh.ru/employer/85385",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/1071874.jpg",
+        "240": "https://hhcdn.ru/employer-logo/5908126.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/5908125.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=85385",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднетехническое, высшее образование (техническое) образование. «Автоматика и телемеханика». Коммуникабельность. Знание и умение работы на ПК. Опыт работы на ЖД транспорте...",
+      "responsibility": "Замена приборов <highlighttext>СЦБ</highlighttext> в соответствии с установленной периодичностью. Участие в комиссионных осмотрах, в проведении проверок устройств <highlighttext>СЦБ</highlighttext>. Устранение выявленных по..."
+    },
+    "published_at": "2023-09-27 11:51:34+03:00"
+  },
+  {
+    "id": "87398991",
+    "name": "Электромеханик системы централизации и блокировки (СЦБ)",
+    "area": {
+      "id": "22",
+      "name": "Владивосток",
+      "url": "https://api.hh.ru/areas/22"
+    },
+    "salary": {
+      "from": null,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "85385",
+      "name": "ЭЛСИ",
+      "url": "https://api.hh.ru/employers/85385",
+      "alternate_url": "https://hh.ru/employer/85385",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/1071874.jpg",
+        "240": "https://hhcdn.ru/employer-logo/5908126.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/5908125.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=85385",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднетехническое, высшее образование (техническое) образование. «Автоматика и телемеханика». Коммуникабельность. Знание и умение работы на ПК. Опыт работы на ЖД транспорте...",
+      "responsibility": "Замена приборов <highlighttext>СЦБ</highlighttext> в соответствии с установленной периодичностью. Участие в комиссионных осмотрах, в проведении проверок устройств <highlighttext>СЦБ</highlighttext>. Устранение выявленных по..."
+    },
+    "published_at": "2023-09-27 11:51:36+03:00"
+  },
+  {
+    "id": "87398992",
+    "name": "Электромеханик системы централизации и блокировки (СЦБ)",
+    "area": {
+      "id": "1955",
+      "name": "Находка",
+      "url": "https://api.hh.ru/areas/1955"
+    },
+    "salary": {
+      "from": null,
+      "to": 180000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "85385",
+      "name": "ЭЛСИ",
+      "url": "https://api.hh.ru/employers/85385",
+      "alternate_url": "https://hh.ru/employer/85385",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/1071874.jpg",
+        "240": "https://hhcdn.ru/employer-logo/5908126.jpeg",
+        "90": "https://hhcdn.ru/employer-logo/5908125.jpeg"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=85385",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднетехническое, высшее образование (техническое) образование. «Автоматика и телемеханика». Коммуникабельность. Знание и умение работы на ПК. Опыт работы на ЖД транспорте...",
+      "responsibility": "Замена приборов <highlighttext>СЦБ</highlighttext> в соответствии с установленной периодичностью. Участие в комиссионных осмотрах, в проведении проверок устройств <highlighttext>СЦБ</highlighttext>. Устранение выявленных по..."
+    },
+    "published_at": "2023-09-27 12:09:09+03:00"
+  },
+  {
+    "id": 44599073,
+    "name": "Энергодиспетчер",
+    "area": {
+      "id": 33,
+      "title": "Екатеринбург",
+      "declension": "в Екатеринбурге",
+      "hasMetro": true,
+      "genitive": "Екатеринбурга"
+    },
+    "salary": {
+      "from": 43000,
+      "to": 55000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Обязанности:\n• оперативное диспетчерское управление устройствами электроснабжения (оборудование тяговых подстанций, контактной сети, линий электроснабжения устройств СЦБ и др);\n• контроль над своевременным внесением изменений в схемы устройств энергоснабжения, ремонтных работ, устранением повреждений;\n• учет неисправного оборудования и контроль ввода его в работу;\n• работа в специализированных программах ОАО \"РЖД\".\nТребования:\n• высшее профильное образование по направлению «Электроснабжение железных дорог»;\n• опыт работы в должности энергодиспетчера или электромеханика тяговой подстанции в ОАО \"РЖД\";\n• наличие группы по электробезопасности не ниже 4.\nУсловия:\n• оформление по ТК РФ;\n• стабильная заработная плата;\n• график работы: 4-х сменный (день/ночь, отсыпной, выходной);\n• место работы: г. Екатеринбург, ул. Вокзальная, д. 21;\n• ежегодная индексация оплаты труда;\n• возможности для профессионального развития и карьерного роста.\n• широкая программа добровольного медицинского страхования;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• негосударственное пенсионное обеспечение;\n• льготные и бесплатные железнодорожные билеты работникам.",
+    "published_at": "2023-09-27 12:22:35"
+  },
+  {
+    "id": 47553545,
+    "name": "Старший электромеханик",
+    "area": {
+      "id": 14,
+      "title": "Санкт-Петербург",
+      "declension": "в Санкт-Петербурге",
+      "hasMetro": true,
+      "genitive": "Санкт-Петербурга"
+    },
+    "salary": {
+      "from": 54000,
+      "to": 72000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Обязанности:\n• проведение инструктажей о мерах по обеспечению безопасности роспуска составов и маневровых передвижений, проверки знания электромехаников, слесарей механосборочных работ и электромонтеров СЦБ в правильности выполнения работ по техническому обслуживанию и ремонту устройств горочной механизации и автоматизации;\n• организация и контроль работы электромехаников, электромонтеров СЦБ, слесарей механосборочных работ по планам, утвержденным в установленном порядке, поддержание трудовой и производственной дисциплины;\n• выполнение работ, связанных с внесением изменений в электрические схемы действующих устройств горочной механизации и автоматизации на основе утвержденной технической документации;\n• проведение проверок целостности и комплектности вновь поступающего оборудования, обеспечение бригады оборудованием, запасными частями и материалами, необходимыми для производства работ;\n• обучение работников других служб и дирекций порядку пользования устройствами горочной механизации и автоматизации.\nТребования:\n• образование средне-профессиональное или высшее по специальности \"Автоматика и телемеханика на жд транспорте\"/\"Обеспечение движения поездов\";\n• стрессоустойчивость, работа в команде, коммуникабельность.\nОпыт работы:\nОт 1 года\nМотивационный пакет:\n• оформление по ТК РФ;\n• стабильная заработная плата;\n• ежегодная индексация оплаты труда;\n• обучение за счет компании (иногородним оплачивается проживание);\n• возможности для профессионального развития и карьерного роста;\n• широкая программа добровольного медицинского страхования;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• негосударственное пенсионное обеспечение;\n• льготные и бесплатные железнодорожные билеты работникам.",
+    "published_at": "2023-09-27 12:39:10"
+  },
+  {
+    "id": 45714736,
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": 17,
+      "title": "Омск",
+      "declension": "в Омске",
+      "hasMetro": false,
+      "genitive": "Омска"
+    },
+    "salary": {
+      "from": 40000,
+      "to": 45000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "ОАО \"РЖД\" приглашает на работу ЭЛЕКТРОМЕХАНИКА (Белово, Новокузнецк, Омск)\nТребования:\n• образование средне-профессиональное специальность \"Автоматика, телемеханика и связь\" и наличие группы по электробезопасности;\n• опыт работы электромонтером/электриком;\n• знание основ электротехники и механики;\n• умение читать электрические схемы;\n• знание принципов работы и правил эксплуатации контрольно-измерительного оборудования и электроприборов.\nОбязанности:\n• контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования;\n• электромонтажные и кабельные работы;\n• составление графиков и актов проверки замены приборов.\nУсловия:\n• оформление по ТК РФ;\n• стабильная заработная плата;\n• ежегодная индексация оплаты труда;\n• обучение за счет компании (иногородним оплачивается проживание);\n• возможности для профессионального развития и карьерного роста.\nСоциальный пакет:\n• широкая программа добровольного медицинского страхования;\n• лечение в профильных медицинских учреждениях железной дороги;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• негосударственное пенсионное обеспечение;\n• льготные и бесплатные железнодорожные билеты работникам и детям;\n• ежегодная материальная помощь к отпуску;\n• доплаты за выслугу лет.",
+    "published_at": "2023-09-27 13:41:29"
+  },
+  {
+    "id": 45714737,
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": 691,
+      "title": "Белово",
+      "declension": "в Белово",
+      "hasMetro": false,
+      "genitive": "Белово"
+    },
+    "salary": {
+      "from": 40000,
+      "to": 45000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "ОАО \"РЖД\" приглашает на работу ЭЛЕКТРОМЕХАНИКА (Белово, Новокузнецк, Омск)\nТребования:\n• образование средне-профессиональное специальность \"Автоматика, телемеханика и связь\" и наличие группы по электробезопасности;\n• опыт работы электромонтером/электриком;\n• знание основ электротехники и механики;\n• умение читать электрические схемы;\n• знание принципов работы и правил эксплуатации контрольно-измерительного оборудования и электроприборов.\nОбязанности:\n• контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования;\n• электромонтажные и кабельные работы;\n• составление графиков и актов проверки замены приборов.\nУсловия:\n• оформление по ТК РФ;\n• стабильная заработная плата;\n• ежегодная индексация оплаты труда;\n• обучение за счет компании (иногородним оплачивается проживание);\n• возможности для профессионального развития и карьерного роста.\nСоциальный пакет:\n• широкая программа добровольного медицинского страхования;\n• лечение в профильных медицинских учреждениях железной дороги;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• негосударственное пенсионное обеспечение;\n• льготные и бесплатные железнодорожные билеты работникам и детям;\n• ежегодная материальная помощь к отпуску;\n• доплаты за выслугу лет.",
+    "published_at": "2023-09-27 13:41:29"
+  },
+  {
+    "id": 45714738,
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": 783,
+      "title": "Новокузнецк",
+      "declension": "в Новокузнецке",
+      "hasMetro": false,
+      "genitive": "Новокузнецка"
+    },
+    "salary": {
+      "from": 40000,
+      "to": 45000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "ОАО \"РЖД\" приглашает на работу ЭЛЕКТРОМЕХАНИКА (Белово, Новокузнецк, Омск)\nТребования:\n• образование средне-профессиональное специальность \"Автоматика, телемеханика и связь\" и наличие группы по электробезопасности;\n• опыт работы электромонтером/электриком;\n• знание основ электротехники и механики;\n• умение читать электрические схемы;\n• знание принципов работы и правил эксплуатации контрольно-измерительного оборудования и электроприборов.\nОбязанности:\n• контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования;\n• электромонтажные и кабельные работы;\n• составление графиков и актов проверки замены приборов.\nУсловия:\n• оформление по ТК РФ;\n• стабильная заработная плата;\n• ежегодная индексация оплаты труда;\n• обучение за счет компании (иногородним оплачивается проживание);\n• возможности для профессионального развития и карьерного роста.\nСоциальный пакет:\n• широкая программа добровольного медицинского страхования;\n• лечение в профильных медицинских учреждениях железной дороги;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• негосударственное пенсионное обеспечение;\n• льготные и бесплатные железнодорожные билеты работникам и детям;\n• ежегодная материальная помощь к отпуску;\n• доплаты за выслугу лет.",
+    "published_at": "2023-09-27 13:41:29"
+  },
+  {
+    "id": 44861268,
+    "name": "Электромеханик СЦБ, Северобайкальск",
+    "area": {
+      "id": 3425,
+      "title": "Магистральный (Иркутская область)",
+      "declension": "в Магистральном",
+      "hasMetro": false,
+      "genitive": "Магистрального"
+    },
+    "salary": {
+      "from": 56000,
+      "to": 70000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Функциональные обязанности\n• обслуживание устройств железнодорожной автоматики, телемеханики;\n• выполнение графика технологического процесса.\nТребования\n• образование среднее профессиональное профильное и наличие 3 группы по электробезопасности;\n• знание основ электротехники и механики.\nБазовый социальный пакет\n• оформление по ТК РФ;\n• стабильная заработная плата;\n• ежегодная индексация оплаты труда; \n• обучение за счет компании (иногородним оплачивается проживание);\n• возможности для профессионального развития и карьерного роста.\n• широкая программа добровольного медицинского страхования;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• негосударственное пенсионное обеспечение;\n• льготные железнодорожные билеты работникам.\nСоглашение на обработку персональных данных\n«Откликаясь на вакансию, Вы даете ОАО «РЖД» согласие на обработку, добавление и хранение в базе кандидатов своих персональных данных с целью рассмотрения Вашей кандидатуры для трудоустройства на работу в ОАО «РЖД»",
+    "published_at": "2023-09-27 13:52:13"
+  },
+  {
+    "id": 47533148,
+    "name": "Дежурный электромеханик устройств СЦБ",
+    "area": {
+      "id": 141,
+      "title": "Иркутск",
+      "declension": "в Иркутске",
+      "hasMetro": false,
+      "genitive": "Иркутска"
+    },
+    "salary": {
+      "from": 130000,
+      "to": 0
+    },
+    "employer": {
+      "id": 4514921,
+      "title": "АнтрацитИнвестПроект",
+      "link": "https://www.superjob.ru/clients/antracitinvestproekt-4514921/vacancies.html",
+      "industry": [],
+      "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе, Якутия\nПроект создания угольного разреза месторождения Сыллахское, Нерюнгринский район Республика Саха (Якутия).",
+      "vacancy_count": 165,
+      "staff_count": "500 — 1000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/4514921_e7ad209f7e3b99c0d225e2c7e2a87d25.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://aipcoal.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1692117327,
+      "town": {
+        "id": 742,
+        "title": "Тында",
+        "declension": "в Тынде",
+        "hasMetro": false,
+        "genitive": "Тынды"
+      }
+    },
+    "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе Республики Саха (Якутия), на границе с Амурской областью. Объём балансовых запасов и прогнозных ресурсов угля особо-ценных марок более 700 миллионов тонн.\nОбязанности:\n• Обеспечение эксплуатации устройств сигнализации, централизации, блокировки (СЦБ);\n• Техническое обслуживание и ремонт устройств по утвержденным планам и графикам;\n• Изучение условий работы устройств, выявление причин преждевременного износа, своевременное принятие меры по его предупреждению;\n• Контроль выполнения установленного порядка проведения и качество ремонтных и строительно-монтажных работ, выполняемых подчиненным персоналом или подрядчиками;\n• Инструктирование электромонтеров о правилах эксплуатации устройств СЦБ, руководство их работой;\n• Участие в ликвидации неисправностей устройств, в их ремонте, монтаже, регулировке, электротехнических измерениях, замене и модернизации;\n• Внедрение прогрессивных методов технического обслуживания, ремонта, монтажа и прочих работ по закрепленному типу устройств;\n• Контроль работы электромонтеров, расстановка работающих электромонтеров в соответствии с технологическим процессом;\n• Способствует совершенствованию обучения и повышению квалификации электромонтеров;\n• При возникновении отказов оборудования принимает необходимые меры для быстрого обнаружения и устранения неисправностей, обеспечивая безопасность движения локомотивов;\n• Участие в комиссионных осмотрах, в проведении комплексных проверок устройств СЦБ и средств связи.\n \nТребования:\n• Высшее образование по специальности «Автоматика, телемеханика и связь на железнодорожном транспорте» или средне-техническое (колледже железнодорожного транспорта);\n• Опыт работы на позиции Электромеханика СЦБ не менее 3 лет;\n• Должен знать законы и иные нормативные правовые акты Российской Федерации, методические и нормативные документы, касающиеся эксплуатации устройств СЦБ и средств связи;\n• Должен знать устройство, принцип действия, технические характеристики и конструктивные особенности отдельных элементов, аппаратов, агрегатов, целых устройств СЦБ и средств связи, находящихся в эксплуатации на обслуживаемом участке;\n• Должен знать правила и порядок испытания и электротехнических измерений устройств СЦБ;\n• Должен знать нормы и допуски в конструкциях обслуживаемых устройств;\n• Должен знать способы устранения основных видов повреждений обслуживаемых устройств, а также организацию и технологию производства слесарно-монтажных работ.\n \nУсловия:\n• Выполнение работ на этапе разработки угольного месторождения, расположенного в Нерюнгринском районе республики Саха (Якутия);\n• Официальное трудоустройство, стабильная и конкурентоспособная заработная плата;\n• Вахтовый метод работы, график 30/30;\n• Оплата проезда от места жительства до места работы и обратно в период междувахтового отдыха;\n• Проживание в комфортабельном мобильном вахтовом поселке, 3-разовое питание за счет работодателя, мобильная связь;\n• Обеспечение сезонными комплектами спецодежды, спецобуви и СИЗ;\n• Полный социальный пакет, предусмотрены все гарантированные действующим законодательством льготы и надбавки (предоставление дополнительных отпусков и надбавок за работу во вредных условиях и за работу в районах Крайнего Севера, оплата переработок, больничных и т.д.);\n• Высокие стандарты безопасности труда и культуры производства, современное оборудование и технологии.",
+    "published_at": "2023-09-27 15:52:23"
+  },
+  {
+    "id": 47533187,
+    "name": "Дежурный электромеханик устройств СЦБ",
+    "area": {
+      "id": 735,
+      "title": "Свободный",
+      "declension": "в Свободном",
+      "hasMetro": false,
+      "genitive": "Свободного"
+    },
+    "salary": {
+      "from": 130000,
+      "to": 0
+    },
+    "employer": {
+      "id": 4514921,
+      "title": "АнтрацитИнвестПроект",
+      "link": "https://www.superjob.ru/clients/antracitinvestproekt-4514921/vacancies.html",
+      "industry": [],
+      "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе, Якутия\nПроект создания угольного разреза месторождения Сыллахское, Нерюнгринский район Республика Саха (Якутия).",
+      "vacancy_count": 165,
+      "staff_count": "500 — 1000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/4514921_e7ad209f7e3b99c0d225e2c7e2a87d25.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://aipcoal.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1692117327,
+      "town": {
+        "id": 742,
+        "title": "Тында",
+        "declension": "в Тынде",
+        "hasMetro": false,
+        "genitive": "Тынды"
+      }
+    },
+    "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе Республики Саха (Якутия), на границе с Амурской областью. Объём балансовых запасов и прогнозных ресурсов угля особо-ценных марок более 700 миллионов тонн.\nОбязанности:\n• Обеспечение эксплуатации устройств сигнализации, централизации, блокировки (СЦБ);\n• Техническое обслуживание и ремонт устройств по утвержденным планам и графикам;\n• Изучение условий работы устройств, выявление причин преждевременного износа, своевременное принятие меры по его предупреждению;\n• Контроль выполнения установленного порядка проведения и качество ремонтных и строительно-монтажных работ, выполняемых подчиненным персоналом или подрядчиками;\n• Инструктирование электромонтеров о правилах эксплуатации устройств СЦБ, руководство их работой;\n• Участие в ликвидации неисправностей устройств, в их ремонте, монтаже, регулировке, электротехнических измерениях, замене и модернизации;\n• Внедрение прогрессивных методов технического обслуживания, ремонта, монтажа и прочих работ по закрепленному типу устройств;\n• Контроль работы электромонтеров, расстановка работающих электромонтеров в соответствии с технологическим процессом;\n• Способствует совершенствованию обучения и повышению квалификации электромонтеров;\n• При возникновении отказов оборудования принимает необходимые меры для быстрого обнаружения и устранения неисправностей, обеспечивая безопасность движения локомотивов;\n• Участие в комиссионных осмотрах, в проведении комплексных проверок устройств СЦБ и средств связи.\n \nТребования:\n• Высшее образование по специальности «Автоматика, телемеханика и связь на железнодорожном транспорте» или средне-техническое (колледже железнодорожного транспорта);\n• Опыт работы на позиции Электромеханика СЦБ не менее 3 лет;\n• Должен знать законы и иные нормативные правовые акты Российской Федерации, методические и нормативные документы, касающиеся эксплуатации устройств СЦБ и средств связи;\n• Должен знать устройство, принцип действия, технические характеристики и конструктивные особенности отдельных элементов, аппаратов, агрегатов, целых устройств СЦБ и средств связи, находящихся в эксплуатации на обслуживаемом участке;\n• Должен знать правила и порядок испытания и электротехнических измерений устройств СЦБ;\n• Должен знать нормы и допуски в конструкциях обслуживаемых устройств;\n• Должен знать способы устранения основных видов повреждений обслуживаемых устройств, а также организацию и технологию производства слесарно-монтажных работ.\n \nУсловия:\n• Выполнение работ на этапе разработки угольного месторождения, расположенного в Нерюнгринском районе республики Саха (Якутия);\n• Официальное трудоустройство, стабильная и конкурентоспособная заработная плата;\n• Вахтовый метод работы, график 30/30;\n• Оплата проезда от места жительства до места работы и обратно в период междувахтового отдыха;\n• Проживание в комфортабельном мобильном вахтовом поселке, 3-разовое питание за счет работодателя, мобильная связь;\n• Обеспечение сезонными комплектами спецодежды, спецобуви и СИЗ;\n• Полный социальный пакет, предусмотрены все гарантированные действующим законодательством льготы и надбавки (предоставление дополнительных отпусков и надбавок за работу во вредных условиях и за работу в районах Крайнего Севера, оплата переработок, больничных и т.д.);\n• Высокие стандарты безопасности труда и культуры производства, современное оборудование и технологии.",
+    "published_at": "2023-09-27 15:52:53"
+  },
+  {
+    "id": 47533241,
+    "name": "Дежурный электромеханик устройств СЦБ",
+    "area": {
+      "id": 735,
+      "title": "Свободный",
+      "declension": "в Свободном",
+      "hasMetro": false,
+      "genitive": "Свободного"
+    },
+    "salary": {
+      "from": 130000,
+      "to": 0
+    },
+    "employer": {
+      "id": 4514921,
+      "title": "АнтрацитИнвестПроект",
+      "link": "https://www.superjob.ru/clients/antracitinvestproekt-4514921/vacancies.html",
+      "industry": [],
+      "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе, Якутия\nПроект создания угольного разреза месторождения Сыллахское, Нерюнгринский район Республика Саха (Якутия).",
+      "vacancy_count": 165,
+      "staff_count": "500 — 1000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/4514921_e7ad209f7e3b99c0d225e2c7e2a87d25.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://aipcoal.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1692117327,
+      "town": {
+        "id": 742,
+        "title": "Тында",
+        "declension": "в Тынде",
+        "hasMetro": false,
+        "genitive": "Тынды"
+      }
+    },
+    "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе Республики Саха (Якутия), на границе с Амурской областью. Объём балансовых запасов и прогнозных ресурсов угля особо-ценных марок более 700 миллионов тонн.\nОбязанности:\n• Обеспечение эксплуатации устройств сигнализации, централизации, блокировки (СЦБ);\n• Техническое обслуживание и ремонт устройств по утвержденным планам и графикам;\n• Изучение условий работы устройств, выявление причин преждевременного износа, своевременное принятие меры по его предупреждению;\n• Контроль выполнения установленного порядка проведения и качество ремонтных и строительно-монтажных работ, выполняемых подчиненным персоналом или подрядчиками;\n• Инструктирование электромонтеров о правилах эксплуатации устройств СЦБ, руководство их работой;\n• Участие в ликвидации неисправностей устройств, в их ремонте, монтаже, регулировке, электротехнических измерениях, замене и модернизации;\n• Внедрение прогрессивных методов технического обслуживания, ремонта, монтажа и прочих работ по закрепленному типу устройств;\n• Контроль работы электромонтеров, расстановка работающих электромонтеров в соответствии с технологическим процессом;\n• Способствует совершенствованию обучения и повышению квалификации электромонтеров;\n• При возникновении отказов оборудования принимает необходимые меры для быстрого обнаружения и устранения неисправностей, обеспечивая безопасность движения локомотивов;\n• Участие в комиссионных осмотрах, в проведении комплексных проверок устройств СЦБ и средств связи.\n \nТребования:\n• Высшее образование по специальности «Автоматика, телемеханика и связь на железнодорожном транспорте» или средне-техническое (колледже железнодорожного транспорта);\n• Опыт работы на позиции Электромеханика СЦБ не менее 3 лет;\n• Должен знать законы и иные нормативные правовые акты Российской Федерации, методические и нормативные документы, касающиеся эксплуатации устройств СЦБ и средств связи;\n• Должен знать устройство, принцип действия, технические характеристики и конструктивные особенности отдельных элементов, аппаратов, агрегатов, целых устройств СЦБ и средств связи, находящихся в эксплуатации на обслуживаемом участке;\n• Должен знать правила и порядок испытания и электротехнических измерений устройств СЦБ;\n• Должен знать нормы и допуски в конструкциях обслуживаемых устройств;\n• Должен знать способы устранения основных видов повреждений обслуживаемых устройств, а также организацию и технологию производства слесарно-монтажных работ.\n \nУсловия:\n• Выполнение работ на этапе разработки угольного месторождения, расположенного в Нерюнгринском районе республики Саха (Якутия);\n• Официальное трудоустройство, стабильная и конкурентоспособная заработная плата;\n• Вахтовый метод работы, график 30/30;\n• Оплата проезда от места жительства до места работы и обратно в период междувахтового отдыха;\n• Проживание в комфортабельном мобильном вахтовом поселке, 3-разовое питание за счет работодателя, мобильная связь;\n• Обеспечение сезонными комплектами спецодежды, спецобуви и СИЗ;\n• Полный социальный пакет, предусмотрены все гарантированные действующим законодательством льготы и надбавки (предоставление дополнительных отпусков и надбавок за работу во вредных условиях и за работу в районах Крайнего Севера, оплата переработок, больничных и т.д.);\n• Высокие стандарты безопасности труда и культуры производства, современное оборудование и технологии.",
+    "published_at": "2023-09-27 15:59:07"
+  },
+  {
+    "id": 47533582,
+    "name": "Дежурный электромеханик устройств СЦБ",
+    "area": {
+      "id": 56,
+      "title": "Хабаровск",
+      "declension": "в Хабаровске",
+      "hasMetro": false,
+      "genitive": "Хабаровска"
+    },
+    "salary": {
+      "from": 130000,
+      "to": 0
+    },
+    "employer": {
+      "id": 4514921,
+      "title": "АнтрацитИнвестПроект",
+      "link": "https://www.superjob.ru/clients/antracitinvestproekt-4514921/vacancies.html",
+      "industry": [],
+      "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе, Якутия\nПроект создания угольного разреза месторождения Сыллахское, Нерюнгринский район Республика Саха (Якутия).",
+      "vacancy_count": 165,
+      "staff_count": "500 — 1000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/4514921_e7ad209f7e3b99c0d225e2c7e2a87d25.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://aipcoal.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1692117327,
+      "town": {
+        "id": 742,
+        "title": "Тында",
+        "declension": "в Тынде",
+        "hasMetro": false,
+        "genitive": "Тынды"
+      }
+    },
+    "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе Республики Саха (Якутия), на границе с Амурской областью. Объём балансовых запасов и прогнозных ресурсов угля особо-ценных марок более 700 миллионов тонн.\nОбязанности:\n• Обеспечение эксплуатации устройств сигнализации, централизации, блокировки (СЦБ);\n• Техническое обслуживание и ремонт устройств по утвержденным планам и графикам;\n• Изучение условий работы устройств, выявление причин преждевременного износа, своевременное принятие меры по его предупреждению;\n• Контроль выполнения установленного порядка проведения и качество ремонтных и строительно-монтажных работ, выполняемых подчиненным персоналом или подрядчиками;\n• Инструктирование электромонтеров о правилах эксплуатации устройств СЦБ, руководство их работой;\n• Участие в ликвидации неисправностей устройств, в их ремонте, монтаже, регулировке, электротехнических измерениях, замене и модернизации;\n• Внедрение прогрессивных методов технического обслуживания, ремонта, монтажа и прочих работ по закрепленному типу устройств;\n• Контроль работы электромонтеров, расстановка работающих электромонтеров в соответствии с технологическим процессом;\n• Способствует совершенствованию обучения и повышению квалификации электромонтеров;\n• При возникновении отказов оборудования принимает необходимые меры для быстрого обнаружения и устранения неисправностей, обеспечивая безопасность движения локомотивов;\n• Участие в комиссионных осмотрах, в проведении комплексных проверок устройств СЦБ и средств связи.\n \nТребования:\n• Высшее образование по специальности «Автоматика, телемеханика и связь на железнодорожном транспорте» или средне-техническое (колледже железнодорожного транспорта);\n• Опыт работы на позиции Электромеханика СЦБ не менее 3 лет;\n• Должен знать законы и иные нормативные правовые акты Российской Федерации, методические и нормативные документы, касающиеся эксплуатации устройств СЦБ и средств связи;\n• Должен знать устройство, принцип действия, технические характеристики и конструктивные особенности отдельных элементов, аппаратов, агрегатов, целых устройств СЦБ и средств связи, находящихся в эксплуатации на обслуживаемом участке;\n• Должен знать правила и порядок испытания и электротехнических измерений устройств СЦБ;\n• Должен знать нормы и допуски в конструкциях обслуживаемых устройств;\n• Должен знать способы устранения основных видов повреждений обслуживаемых устройств, а также организацию и технологию производства слесарно-монтажных работ.\n \nУсловия:\n• Выполнение работ на этапе разработки угольного месторождения, расположенного в Нерюнгринском районе республики Саха (Якутия);\n• Официальное трудоустройство, стабильная и конкурентоспособная заработная плата;\n• Вахтовый метод работы, график 30/30;\n• Оплата проезда от места жительства до места работы и обратно в период междувахтового отдыха;\n• Проживание в комфортабельном мобильном вахтовом поселке, 3-разовое питание за счет работодателя, мобильная связь;\n• Обеспечение сезонными комплектами спецодежды, спецобуви и СИЗ;\n• Полный социальный пакет, предусмотрены все гарантированные действующим законодательством льготы и надбавки (предоставление дополнительных отпусков и надбавок за работу во вредных условиях и за работу в районах Крайнего Севера, оплата переработок, больничных и т.д.);\n• Высокие стандарты безопасности труда и культуры производства, современное оборудование и технологии.",
+    "published_at": "2023-09-27 16:14:42"
+  },
+  {
+    "id": 47533587,
+    "name": "Дежурный электромеханик устройств СЦБ",
+    "area": {
+      "id": 130,
+      "title": "Красноярск",
+      "declension": "в Красноярске",
+      "hasMetro": false,
+      "genitive": "Красноярска"
+    },
+    "salary": {
+      "from": 130000,
+      "to": 0
+    },
+    "employer": {
+      "id": 4514921,
+      "title": "АнтрацитИнвестПроект",
+      "link": "https://www.superjob.ru/clients/antracitinvestproekt-4514921/vacancies.html",
+      "industry": [],
+      "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе, Якутия\nПроект создания угольного разреза месторождения Сыллахское, Нерюнгринский район Республика Саха (Якутия).",
+      "vacancy_count": 165,
+      "staff_count": "500 — 1000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/4514921_e7ad209f7e3b99c0d225e2c7e2a87d25.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://aipcoal.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1692117327,
+      "town": {
+        "id": 742,
+        "title": "Тында",
+        "declension": "в Тынде",
+        "hasMetro": false,
+        "genitive": "Тынды"
+      }
+    },
+    "description": "Компания «АнтрацитИнвестПроект» ведет разработку проекта освоения угольного месторождения Сыллахское, расположенного в Нерюнгринском районе Республики Саха (Якутия), на границе с Амурской областью. Объём балансовых запасов и прогнозных ресурсов угля особо-ценных марок более 700 миллионов тонн.\nОбязанности:\n• Обеспечение эксплуатации устройств сигнализации, централизации, блокировки (СЦБ);\n• Техническое обслуживание и ремонт устройств по утвержденным планам и графикам;\n• Изучение условий работы устройств, выявление причин преждевременного износа, своевременное принятие меры по его предупреждению;\n• Контроль выполнения установленного порядка проведения и качество ремонтных и строительно-монтажных работ, выполняемых подчиненным персоналом или подрядчиками;\n• Инструктирование электромонтеров о правилах эксплуатации устройств СЦБ, руководство их работой;\n• Участие в ликвидации неисправностей устройств, в их ремонте, монтаже, регулировке, электротехнических измерениях, замене и модернизации;\n• Внедрение прогрессивных методов технического обслуживания, ремонта, монтажа и прочих работ по закрепленному типу устройств;\n• Контроль работы электромонтеров, расстановка работающих электромонтеров в соответствии с технологическим процессом;\n• Способствует совершенствованию обучения и повышению квалификации электромонтеров;\n• При возникновении отказов оборудования принимает необходимые меры для быстрого обнаружения и устранения неисправностей, обеспечивая безопасность движения локомотивов;\n• Участие в комиссионных осмотрах, в проведении комплексных проверок устройств СЦБ и средств связи.\n \nТребования:\n• Высшее образование по специальности «Автоматика, телемеханика и связь на железнодорожном транспорте» или средне-техническое (колледже железнодорожного транспорта);\n• Опыт работы на позиции Электромеханика СЦБ не менее 3 лет;\n• Должен знать законы и иные нормативные правовые акты Российской Федерации, методические и нормативные документы, касающиеся эксплуатации устройств СЦБ и средств связи;\n• Должен знать устройство, принцип действия, технические характеристики и конструктивные особенности отдельных элементов, аппаратов, агрегатов, целых устройств СЦБ и средств связи, находящихся в эксплуатации на обслуживаемом участке;\n• Должен знать правила и порядок испытания и электротехнических измерений устройств СЦБ;\n• Должен знать нормы и допуски в конструкциях обслуживаемых устройств;\n• Должен знать способы устранения основных видов повреждений обслуживаемых устройств, а также организацию и технологию производства слесарно-монтажных работ.\n \nУсловия:\n• Выполнение работ на этапе разработки угольного месторождения, расположенного в Нерюнгринском районе республики Саха (Якутия);\n• Официальное трудоустройство, стабильная и конкурентоспособная заработная плата;\n• Вахтовый метод работы, график 30/30;\n• Оплата проезда от места жительства до места работы и обратно в период междувахтового отдыха;\n• Проживание в комфортабельном мобильном вахтовом поселке, 3-разовое питание за счет работодателя, мобильная связь;\n• Обеспечение сезонными комплектами спецодежды, спецобуви и СИЗ;\n• Полный социальный пакет, предусмотрены все гарантированные действующим законодательством льготы и надбавки (предоставление дополнительных отпусков и надбавок за работу во вредных условиях и за работу в районах Крайнего Севера, оплата переработок, больничных и т.д.);\n• Высокие стандарты безопасности труда и культуры производства, современное оборудование и технологии.",
+    "published_at": "2023-09-27 16:15:49"
+  },
+  {
+    "id": 47193077,
+    "name": "Старший электромеханик СЦБ",
+    "area": {
+      "id": 847,
+      "title": "Раменское",
+      "declension": "в Раменском",
+      "hasMetro": false,
+      "genitive": "Раменского"
+    },
+    "salary": {
+      "from": 0,
+      "to": 140000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Функциональные обязанности\n• руководство бригадой по обслуживанию устройств СЦБ;\n• контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования;\n• электромонтажные работы;\n• составление графиков и актов проверки замены приборов;\n• ведение установленной отчетности.\nТребования\n• высшее профессиональное образование по специальности «Автоматика, телемеханика, связь на ж.д. транспорте»;\n• опыт работы от 1 года;\n• медицинский осмотр средней строгости. \nУсловия\n• оформление по ТК РФ;\n• стабильная белая заработная плата, ежемесячные премии, доплаты за выслугу лет, материальная помощь к отпуску, каждые 6 месяцев гарантированная индексация оплаты труда; \n• место работы: Московская область г. Раменское;\n• график работы: 5/2 с 8.00 до 17.00;\n• заработная плата: 140 000 на руки.\nБазовый социальный пакет\n• медицинское обслуживание в клиниках РЖД, ДМС;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• иногородним оплачивается жилье;\n• негосударственное пенсионное обеспечение (доплаты к пенсии);\n• льготные и бесплатные железнодорожные билеты работникам;\n• возможности для профессионального развития и карьерного роста;\n• возможность получения бесплатного высшего и средне-профессионального образования в отраслевых учебных заведениях.\nСоглашение на обработку персональных данных\n«Откликаясь на вакансию, Вы даете ОАО «РЖД» согласие на обработку, добавление и хранение в базе кандидатов своих персональных данных с целью рассмотрения Вашей кандидатуры для трудоустройства на работу в ОАО «РЖД»",
+    "published_at": "2023-09-27 17:14:00"
+  },
+  {
+    "id": 47194478,
+    "name": "Электромеханик СЦБ для обслуживания МЦД-3/МЦД-4",
+    "area": {
+      "id": 4,
+      "title": "Москва",
+      "declension": "в Москве",
+      "hasMetro": true,
+      "genitive": "Москвы"
+    },
+    "salary": {
+      "from": 0,
+      "to": 85000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Функциональные обязанности\n• контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования;\n• электромонтажные и кабельные работы;\n• составление графиков и актов проверки замены приборов.\nТребования\n• наличие средне-профессионального или высшего профильного образования по специальности «Автоматика и телемеханика на ж.д. транспорте» или переподготовки по данному профилю ОБЯЗАТЕЛЬНО;\n• опыт работы от 1 до 3 лет;\n• прохождение медицинского осмотра средней строгости за счет работодателя.\nУсловия \n• оформление по ТК РФ;\n• стабильная белая заработная плата, ежемесячные премии, доплаты за выслугу лет, материальная помощь к отпуску, каждые 6 месяцев гарантированная индексация оплаты труда;\n• место работы: г. Москва, участки: Перовское шоссе, м. Казанская, м. Рижская;\n• график работы: 5/2 с 8.00 до 17.00;\n• заработная плата: 85 000 на руки;\n• иногородним оплачивается жилье.\nБазовый социальный пакет\n• медицинское обслуживание в клиниках РЖД, ДМС;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• иногородним оплачивается жилье;\n• негосударственное пенсионное обеспечение (доплаты к пенсии);\n• льготные и бесплатные железнодорожные билеты работникам;\n• возможности для профессионального развития и карьерного роста;\n• возможность получения бесплатного высшего и средне-профессионального образования в отраслевых учебных заведениях.\nСоглашение на обработку персональных данных\n«Откликаясь на вакансию, Вы даете ОАО «РЖД» согласие на обработку, добавление и хранение в базе кандидатов своих персональных данных с целью рассмотрения Вашей кандидатуры для трудоустройства на работу в ОАО «РЖД»",
+    "published_at": "2023-09-27 18:02:00"
+  },
+  {
+    "id": 45549506,
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": 4,
+      "title": "Москва",
+      "declension": "в Москве",
+      "hasMetro": true,
+      "genitive": "Москвы"
+    },
+    "salary": {
+      "from": 55000,
+      "to": 80000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "ФУНКЦИОНАЛЬНЫЕ ОБЯЗАННОСТИ\n• обслуживание устройств железнодорожной автоматики, телемеханики;\n• выполнение графика технологического процесса.\nТРЕБОВАНИЯ\n• образование средне-профессиональное профильное и наличие 3 группы по электробезопасности;\n• знание основ электротехники и механики.\nБАЗОВЫЙ СОЦИАЛЬНЫЙ ПАКЕТ\n• оформление по ТК РФ;\n• стабильная заработная плата;\n• ежегодная индексация оплаты труда;\n• обучение за счет компании (иногородним оплачивается проживание);\n• возможности для профессионального развития и карьерного роста.\n• широкая программа добровольного медицинского страхования;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• негосударственное пенсионное обеспечение;\n• льготные железнодорожные билеты работникам.",
+    "published_at": "2023-09-27 22:20:59"
+  },
+  {
+    "id": "87428627",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "72",
+      "name": "Пермь",
+      "url": "https://api.hh.ru/areas/72"
+    },
+    "salary": null,
+    "employer": {
+      "id": "4029257",
+      "name": "РУСАЛ, Центр подбора персонала",
+      "url": "https://api.hh.ru/employers/4029257",
+      "alternate_url": "https://hh.ru/employer/4029257",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/649739.png",
+        "90": "https://hhcdn.ru/employer-logo/3040104.png",
+        "240": "https://hhcdn.ru/employer-logo/3040105.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4029257",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Опыт контроля ведения технической документации, правильности исполнения электрических схем устройств <highlighttext>СЦБ</highlighttext>, их соответствия действующим эксплуатируемым устройствам. Знание стандартных программ MS...",
+      "responsibility": "...устройств <highlighttext>СЦБ</highlighttext> (сигнализация, централизация и блокировка). Организация выхода работников участка <highlighttext>СЦБ</highlighttext> для обеспечения бесперебойной работы при неисправностях устройств <highlighttext>СЦБ</highlighttext> в..."
+    },
+    "published_at": "2023-09-28 08:55:05+03:00"
+  },
+  {
+    "id": "87428628",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "104",
+      "name": "Челябинск",
+      "url": "https://api.hh.ru/areas/104"
+    },
+    "salary": null,
+    "employer": {
+      "id": "4029257",
+      "name": "РУСАЛ, Центр подбора персонала",
+      "url": "https://api.hh.ru/employers/4029257",
+      "alternate_url": "https://hh.ru/employer/4029257",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/649739.png",
+        "90": "https://hhcdn.ru/employer-logo/3040104.png",
+        "240": "https://hhcdn.ru/employer-logo/3040105.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4029257",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Опыт контроля ведения технической документации, правильности исполнения электрических схем устройств <highlighttext>СЦБ</highlighttext>, их соответствия действующим эксплуатируемым устройствам. Знание стандартных программ MS...",
+      "responsibility": "...устройств <highlighttext>СЦБ</highlighttext> (сигнализация, централизация и блокировка). Организация выхода работников участка <highlighttext>СЦБ</highlighttext> для обеспечения бесперебойной работы при неисправностях устройств <highlighttext>СЦБ</highlighttext> в..."
+    },
+    "published_at": "2023-09-28 08:55:10+03:00"
+  },
+  {
+    "id": 45939557,
+    "name": "Электромеханик",
+    "area": {
+      "id": 14,
+      "title": "Санкт-Петербург",
+      "declension": "в Санкт-Петербурге",
+      "hasMetro": true,
+      "genitive": "Санкт-Петербурга"
+    },
+    "salary": {
+      "from": 0,
+      "to": 60000
+    },
+    "employer": {
+      "id": 2466656,
+      "title": "Российские железные дороги",
+      "link": "https://www.superjob.ru/clients/rossijskie-zheleznye-dorogi-2466656/vacancies.html",
+      "industry": [],
+      "description": "ОАО \"РЖД\" учреждено Правительством РФ.\nХозяйственная деятельность компании началась 1 октября 2003 года. Сегодня она входит в тройку самых крупных транспортных компаний мира.\n\nКомпания занимает 2-е место в народном рейтинге привлекательных работодателей ВЦИОМ.\n\nМиссия компании состоит в удовлетворении рыночного спроса на перевозки, повышение эффективности деятельности, качества услуг и глубокой интеграции в Евроазиатскую транспортную систему.\nГлавные цели деятельности общества - обеспечение потребностей государства, юридических и физических лиц в железнодорожных перевозках, работах и услугах, оказываемых железнодорожным транспортом, а также извлечение прибыли.\n\nСтратегические цели компании:\n\nувеличение масштаба транспортного бизнеса;\nповышение производственно-экономической эффективности;\nповышение качества работы и безопасности перевозок;\nглубокая интеграция в Евроазиатскую транспортную систему;\nповышение финансовой устойчивости и эффективности.\nИмущество компании было сформировано путем внесения в уставной капитал ОАО \"РЖД\" по балансовой стоимости активов 987 организаций федерального железнодорожного транспорта, принадлежащих государству.\n\nЕдинственным акционером ОАО \"РЖД\" является Российская Федерация.\n\nВиды деятельности:\n\nгрузовые перевозки;\n\nпассажирские перевозки в дальнем сообщении;\n\nпассажирские перевозки в пригородном сообщении;\n\nпредоставление услуг инфраструктуры;\n\nпредоставление услуг локомотивной тяги;\n\nремонт подвижного состава;\n\nстроительство объектов инфраструктуры;\n\nнаучно-исследовательские и опытно-конструкторские работы;\n\nсодержание социальной сферы.\n\nКорпоративная структура включает в себя филиалы и представительства компании, дочерние и зависимые общества, чьи акции и доли были внесены в уставной капитал компании при ее создании, а так же дочерние общества, созданные в процессе реформирования.\n\nПо видам осуществляемой деятельности филиалы компании подразделяются:\nфилиалы – железные дороги;\nфункциональные филиалы;\nфилиалы – перевозочные компании;\nфилиалы в области технико-экономического и финансового обеспечения;\nфилиалы в области капитального строительства;\nфилиалы в области ремонта подвижного состава;\nфилиалы в области путевого хозяйства;\nфилиалы в области информатизации и связи;\nфилиалы в области социальной сферы;\nфилиалы – проектные бюро;\nиные филиалы.\n\nСреди дочерних обществ наиболее значимы для ОАО \"РЖД\" являются строительно-ипотечная компания ЗАО \"Желдорипотека\", телекоммуникационная компания ЗАО \"Компания ТрансТелеКом\", электротехнические заводы ОАО \"ЭЛТЕЗА\".\n\nРоссийские железные дороги являются одной из крупнейших транспортных систем мира - эксплутационная длина – 85,5 тыс. км.\n\nОАО \"РЖД\" занимает первое место в мире по протяженности электрифицированных линий – 42,3 тыс. км.\n\nПарк подвижного состава:\nгрузовые локомотивы – 19 636;\nгрузовые вагоны всех типов – 624 095;\nпассажирские локомотивы – 2 539;\nпассажирские вагоны дальнего следования – 26 245;\nпассажирские вагоны пригородных поездов – 15 340.",
+      "vacancy_count": 3784,
+      "staff_count": "более 5000",
+      "client_logo": "https://public.superjob.ru/images/clients_logos.ru/2466656_2a04a6e1bf62bb537f347ba6a662e0ae.jpg",
+      "address": null,
+      "addresses": [],
+      "url": "https://team.rzd.ru",
+      "short_reg": false,
+      "is_blocked": false,
+      "registered_date": 1400162513,
+      "town": {
+        "id": 4,
+        "title": "Москва",
+        "declension": "в Москве",
+        "hasMetro": true,
+        "genitive": "Москвы"
+      }
+    },
+    "description": "Обязанности:\n• производство работ по техническому обслуживанию и ремонту устройств СЦБ;\n• выполнение работ по утвержденным планам-графикам технического обслуживания, оперативному плану, суточному заданию, устранение отказов и предотказных состояний;\n• организация работ электромонтеров СЦБ и контроль качества выполнения этих работ;\n• ведение технической документации на обслуживаемые устройства.\nТребования:\n• образование высшее, средне-профессиональное (профильное по специальности «Автоматики и телемеханика») или готовность пройти переподготовку по профилю;\n• опыт работы приветствуется.\nСоциальный пакет:\n• оформление по ТК РФ;\n• стабильная заработная плата;\n• ежегодная индексация оплаты труда;\n• обучение за счет компании (иногородним оплачивается проживание);\n• возможности для профессионального развития и карьерного роста;\n• широкая программа добровольного медицинского страхования;\n• программы санаторно-курортного лечения и оздоровительного отдыха;\n• детский отдых и компенсация оплаты детских дошкольных учреждений;\n• негосударственное пенсионное обеспечение;\n• льготные и бесплатные железнодорожные билеты работникам.",
+    "published_at": "2023-09-29 10:38:01"
+  },
+  {
+    "id": "83532234",
+    "name": "Электромеханик СЦБ",
+    "area": {
+      "id": "4705",
+      "name": "Красноярка",
+      "url": "https://api.hh.ru/areas/4705"
+    },
+    "salary": {
+      "from": 40000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "id": "8616517",
+      "name": "Российские железные дороги",
+      "url": "https://api.hh.ru/employers/8616517",
+      "alternate_url": "https://hh.ru/employer/8616517",
+      "logo_urls": {
+        "original": "https://hhcdn.ru/employer-logo-original/1065109.png",
+        "90": "https://hhcdn.ru/employer-logo/5881069.png",
+        "240": "https://hhcdn.ru/employer-logo/5881070.png"
+      },
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8616517",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Среднее профессиональное или высшее техническое образование по специальности « Автоматика и телемеханика на железнодорожном транспорте» либо профессиональная переподготовка по данной специальности...",
+      "responsibility": "Контроль работы, ремонт и замена электроприборов и контрольно-измерительного оборудования. Электромонтажные и кабельные работы. Составление графиков и актов проверки замены..."
+    },
+    "published_at": "2023-09-30 00:02:59+03:00"
+  },
+  {
+    "id": "87459744",
+    "name": "Электромеханик по обслуживанию и ремонту устройств СЦБ и связи",
+    "area": {
+      "id": "2",
+      "name": "Санкт-Петербург",
+      "url": "https://api.hh.ru/areas/2"
+    },
+    "salary": {
+      "from": 75000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "id": "1728629",
+      "name": "ЖТЭК",
+      "url": "https://api.hh.ru/employers/1728629",
+      "alternate_url": "https://hh.ru/employer/1728629",
+      "logo_urls": null,
+      "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1728629",
+      "accredited_it_employer": false,
+      "trusted": true
+    },
+    "description": {
+      "requirement": "Опыт работы по обслуживанию и ремонту железнодорожной автоматики (<highlighttext>СЦБ</highlighttext>). Высшее или среднее техническое образование. Знание теоретических принципов работы систем <highlighttext>СЦБ</highlighttext>...",
+      "responsibility": null
+    },
+    "published_at": "2023-10-01 11:19:21+03:00"
+  }
+]
