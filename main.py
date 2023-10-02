@@ -1,7 +1,10 @@
+import json
+
 from api import headhunter_api, superjob_api
 from file_managers import json_manager
+from utils.functions import create_vacancy_objects_from_json, show_vacancies
 
-test_search = "Электромеханик СЦБ"
+test_search = "Python developer"
 
 
 hh_api = headhunter_api.HeadHunterAPI()
@@ -25,6 +28,9 @@ def main():
     # json_handler.filter(salary_from=100000)
     json_handler.order_by(["published_at"])
     # json_handler.delete_vacancy(index=-1)
+
+    create_vacancy_objects_from_json(json_handler.file)
+    show_vacancies()
 
 
 main()

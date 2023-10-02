@@ -16,9 +16,12 @@ class HeadHunterAPI(API):
                 VacancySchema(
                     id=vacancy_fields["id"],
                     name=vacancy_fields["name"],
-                    area=vacancy_fields["area"],
+                    area=vacancy_fields["area"]["name"],
                     salary=vacancy_fields["salary"],
-                    employer=vacancy_fields["employer"],
+                    employer={
+                        "name": vacancy_fields["employer"]["name"],
+                        "vacancies": vacancy_fields["employer"].get("vacancies_url"),
+                    },
                     description=vacancy_fields["snippet"],
                     published_at=str(datetime.fromisoformat(vacancy_fields["published_at"]))
                 )

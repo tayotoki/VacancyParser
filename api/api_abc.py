@@ -14,7 +14,7 @@ class Request(TypedDict):
 class VacancySchema(TypedDict):
     id: str | int
     name: str
-    area: dict[str, str | int]
+    area: str
     salary: dict[str, int | float | str]
     employer: dict[str, int | str]
     description: dict[str, str] | str

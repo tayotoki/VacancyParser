@@ -21,12 +21,15 @@ class SuperJobAPI(API):
                 VacancySchema(
                     id=vacancy_fields["id"],
                     name=vacancy_fields["profession"],
-                    area=vacancy_fields["town"],
+                    area=vacancy_fields["town"]["title"],
                     salary={
                         "from": vacancy_fields["payment_from"],
                         "to": vacancy_fields["payment_to"],
                     },
-                    employer=vacancy_fields["client"],
+                    employer={
+                        "name": vacancy_fields["client"]["title"],
+                        "vacancies": vacancy_fields["client"]["link"]
+                    },
                     description=vacancy_fields["candidat"],
                     published_at=str(datetime.fromtimestamp(vacancy_fields["date_published"]))
                 )
