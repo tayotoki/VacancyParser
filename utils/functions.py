@@ -3,8 +3,6 @@ from pathlib import Path
 
 from vacancyparser.vacancy import Vacancy
 
-from termcolor import colored
-
 
 def setup(directory: Path, file: Path):
     if not directory.exists():
@@ -46,12 +44,16 @@ def get_user_salary() -> tuple[int | None, int | float | None]:
         case ("", ""):
             print("Фильтры не были применены\n")
             return None, None
+
         case ("", to) if to.strip().isnumeric():
             return 0, int(to)
+
         case (from_, "") if from_.strip().isnumeric():
             return int(from_), float("inf")
+
         case (from_, to) if from_.strip().isnumeric and to.strip().isnumeric():
             return int(from_), int(to)
+
         case _:
             print("Вы ввели некорректные данные. Давайте повторим ввод\n")
             return get_user_salary()
@@ -96,3 +98,4 @@ def get_user_sort_fields() -> tuple[list, bool]:
         return get_user_sort_fields()
 
     return list(order_fields), desc
+

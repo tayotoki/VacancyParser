@@ -2,7 +2,6 @@ from abc import ABC, abstractmethod
 
 from termcolor import colored
 
-
 __all__ = [
     "ID",
     "Salary",
@@ -94,7 +93,7 @@ class Salary(Field, ColorMixin):
 
 
 class Employer(Field, ColorMixin):
-    FIELD_NAME = "Работодатель"
+    FIELD_NAME = "Работодатель:"
 
     def check_value(self, value):
         pass
@@ -115,7 +114,7 @@ class Description(Field):
     def format_data(self, attr):
         default_headers = [
             colored(header, color="blue") for header
-            in ["Кандидат:", "Требования:", "Обязанности"]
+            in ["Кандидат:", "Требования:", "Обязанности:"]
         ]
 
         if isinstance(attr, dict):

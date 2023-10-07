@@ -1,8 +1,13 @@
-import json
+from tqdm import tqdm
 
 from api import headhunter_api, superjob_api
 from file_managers import json_manager
-from utils.functions import create_vacancy_objects_from_json, show_vacancies, get_user_salary, get_user_sort_fields
+from utils.functions import (
+    create_vacancy_objects_from_json,
+    show_vacancies,
+    get_user_salary,
+    get_user_sort_fields
+)
 
 test_search = "Python developer"
 
@@ -13,7 +18,7 @@ sj_api = superjob_api.SuperJobAPI()
 json_handler = json_manager.JSONManager()
 
 # Вызов метода __call__
-# для применения файла по умолчанию
+# для инициализации файла по умолчанию
 json_handler()
 
 
@@ -26,7 +31,7 @@ def main():
     sj_vacancies = sj_api.get_vacancies(search_term=search_term)
 
     # Добавление всех найденных вакансий в файл.
-    for vacancy in [*hh_vacancies, *sj_vacancies]:
+    for vacancy in tqdm([*hh_vacancies, *sj_vacancies]):
         json_handler.add_vacancy(vacancy)
 
     user_chose = input(
@@ -81,6 +86,52 @@ def main():
         if user_chose.strip().lower() == "да":
             create_vacancy_objects_from_json(json_handler.file)
             show_vacancies()
+
+    user_delete = input(
+        "Вы можете удалить лишние вакансии по индексу, "
+        "индекс выглядит как нумерация в терминале - "
+        "'...--<номер>--...', или по ID вакансии (подсвечивается"
+        "зеленым цветом).\n"
+        f"Также ID вакансии можно посмотреть в файле {json_handler.file}\n"
+        "Введите 'да' если хотите удалить вакансию, иначе оставьте поле "
+        "ввода пустым.\n"
+    ).strip().lower()
+
+    if user_delete == "да":
+        while True:
+            user_index = input(
+                "Введите индекс вакансии, или оставьте поле пустым "
+                "чтобы ввести ID\n"
+            )
+
+            if user_index.isnumeric():
+                op_code = json_handler.delete_vacancy(index=int(user_index))
+
+                if op_code == -1:
+                    print("Такой вакансии нет!")
+                else:
+                    print("Вакансия удалена")
+            else:
+                user_vacancy_id = input("Введите ID вакансии\n").strip()
+
+                if user_vacancy_id.isnumeric():
+                    op_code = json_handler.delete_vacancy(vacancy_id=int(user_vacancy_id))
+
+                    if op_code == -1:
+                        print("Такой вакансии нет!")
+                    else:
+                        print("Вакансия удалена")
+
+            repeat_deletion = input(
+                "Повторить удаление? Введите 'да' или оставьте поле ввода пустым\n"
+            )
+
+            if repeat_deletion == "да":
+                continue
+            else:
+                print("Конец программы. Итоговый файл находится в \n"
+                      f"{json_handler.file}")
+                break
 
 
 if __name__ == "__main__":
