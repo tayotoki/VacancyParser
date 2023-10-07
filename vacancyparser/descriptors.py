@@ -14,6 +14,8 @@ __all__ = [
 
 
 class ColorMixin:
+    """Миксин для преобразование заголовков вакансии
+    в выбранный цвет для отображения в терминале"""
     COLOR = "blue"
     FIELD_NAME = ""
 
@@ -22,6 +24,8 @@ class ColorMixin:
 
 
 class Field(ABC):
+    """Абстрактный класс дескриптора для валидации и форматирования данных.
+    Необходимо переопределение методов check_value и format_data"""
     def __set_name__(self, owner, name):
         self.name = "_" + name
 
@@ -39,10 +43,14 @@ class Field(ABC):
 
     @abstractmethod
     def check_value(self, value):
+        """Валидация данных до привязки поля класса
+        данному значению value"""
         pass
 
     @abstractmethod
     def format_data(self, attr):
+        """Преобразование attr для обращения
+        к публичным полям экземпляра класса"""
         pass
 
 
