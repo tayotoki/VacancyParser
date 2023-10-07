@@ -31,7 +31,7 @@ class Vacancy:
             self,
             id: str | int,
             name: str,
-            area,
+            area: str,
             salary: dict[str, int | float | str],
             employer: dict[str, int | str],
             description: dict[str, str] | str,
