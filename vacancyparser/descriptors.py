@@ -2,7 +2,6 @@ from abc import ABC, abstractmethod
 
 from termcolor import colored
 
-
 __all__ = [
     "ID",
     "Salary",
@@ -15,6 +14,8 @@ __all__ = [
 
 
 class ColorMixin:
+    """Миксин для преобразование заголовков вакансии
+    в выбранный цвет для отображения в терминале"""
     COLOR = "blue"
     FIELD_NAME = ""
 
@@ -23,6 +24,8 @@ class ColorMixin:
 
 
 class Field(ABC):
+    """Абстрактный класс дескриптора для валидации и форматирования данных.
+    Необходимо переопределение методов check_value и format_data"""
     def __set_name__(self, owner, name):
         self.name = "_" + name
 
@@ -40,10 +43,14 @@ class Field(ABC):
 
     @abstractmethod
     def check_value(self, value):
+        """Валидация данных до привязки поля класса
+        данному значению value"""
         pass
 
     @abstractmethod
     def format_data(self, attr):
+        """Преобразование attr для обращения
+        к публичным полям экземпляра класса"""
         pass
 
 
@@ -94,7 +101,7 @@ class Salary(Field, ColorMixin):
 
 
 class Employer(Field, ColorMixin):
-    FIELD_NAME = "Работодатель"
+    FIELD_NAME = "Работодатель:"
 
     def check_value(self, value):
         pass
@@ -115,7 +122,7 @@ class Description(Field):
     def format_data(self, attr):
         default_headers = [
             colored(header, color="blue") for header
-            in ["Кандидат:", "Требования:", "Обязанности"]
+            in ["Кандидат:", "Требования:", "Обязанности:"]
         ]
 
         if isinstance(attr, dict):

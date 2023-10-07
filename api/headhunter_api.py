@@ -1,5 +1,6 @@
-from .api_abc import API, Request, VacancySchema
 from datetime import datetime
+
+from .api_abc import API, Request, VacancySchema
 
 
 class HeadHunterAPI(API):

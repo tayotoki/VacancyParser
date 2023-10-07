@@ -1,5 +1,3 @@
-# from termcolor import colored
-
 from .descriptors import (
     ID,
     Salary,
@@ -12,6 +10,10 @@ from .descriptors import (
 
 
 class Vacancy:
+    """Класс для представления вакансии.
+    Поля экземпляра проходят валидацию
+    и форматирование данных с помощью
+    дата-дескрипторов."""
     all = []
 
     id = ID()
@@ -21,6 +23,16 @@ class Vacancy:
     employer = Employer()
     description = Description()
     published_at = Publish()
+
+    __slots__ = (
+        "_id",
+        "_name",
+        "_area",
+        "_salary",
+        "_employer",
+        "_description",
+        "_published_at"
+    )
 
     def __new__(cls, *args, **kwargs):
         instance = super().__new__(cls)

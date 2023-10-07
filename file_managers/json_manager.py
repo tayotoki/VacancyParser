@@ -1,10 +1,10 @@
 import json
 from pathlib import Path
 from typing import Optional
-
-from settings import JSON_PATH
+from copy import deepcopy
 
 from file_managers.manager_abc import FileManager
+from settings import JSON_PATH
 
 
 class JSONManager(FileManager):
@@ -41,10 +41,12 @@ class JSONManager(FileManager):
             data: list[dict] = json.load(file)
 
         if index:
+            index -= 1  # Пользователь передает индекс с 1.
+
             try:
                 data[index]
             except IndexError:
-                pass
+                return -1
             else:
                 del data[index]
 
@@ -53,6 +55,8 @@ class JSONManager(FileManager):
                 if vacancy["id"] == vacancy_id:
                     del data[i]
                     break
+            else:
+                return -1
 
         with open(self.file, "w") as file:
             json.dump(data, file, indent=2, ensure_ascii=False)

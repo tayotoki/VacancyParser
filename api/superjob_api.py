@@ -1,7 +1,6 @@
 from datetime import datetime
 
 from credentials import superjob
-
 from .api_abc import API, Request, VacancySchema
 
 
