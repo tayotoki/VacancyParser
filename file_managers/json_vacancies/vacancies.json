@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "86630481",
+    "name": "Backend-разработчик, удаленно",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "МП Лаб",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9295279"
+    },
+    "description": {
+      "requirement": "<highlighttext>Python</highlighttext>, Django, FastAPI (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Любовь к написанию...",
+      "responsibility": "Gitlab CI/CD."
+    },
+    "published_at": "2023-09-12 20:47:23+03:00"
+  },
+  {
+    "id": "86630481",
+    "name": "Backend-разработчик, удаленно",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "МП Лаб",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9295279"
+    },
+    "description": {
+      "requirement": "<highlighttext>Python</highlighttext>, Django, FastAPI (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Любовь к написанию...",
+      "responsibility": "Gitlab CI/CD."
+    },
+    "published_at": "2023-09-12 20:47:23+03:00"
+  },
+  {
+    "id": "86630481",
+    "name": "Backend-разработчик, удаленно",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "МП Лаб",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9295279"
+    },
+    "description": {
+      "requirement": "<highlighttext>Python</highlighttext>, Django, FastAPI (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Любовь к написанию...",
+      "responsibility": "Gitlab CI/CD."
+    },
+    "published_at": "2023-09-12 20:47:23+03:00"
+  },
+  {
+    "id": "86630481",
+    "name": "Backend-разработчик, удаленно",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "МП Лаб",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9295279"
+    },
+    "description": {
+      "requirement": "<highlighttext>Python</highlighttext>, Django, FastAPI (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Любовь к написанию...",
+      "responsibility": "Gitlab CI/CD."
+    },
+    "published_at": "2023-09-12 20:47:23+03:00"
+  },
+  {
+    "id": "86630481",
+    "name": "Backend-разработчик, удаленно",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "МП Лаб",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9295279"
+    },
+    "description": {
+      "requirement": "<highlighttext>Python</highlighttext>, Django, FastAPI (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Любовь к написанию...",
+      "responsibility": "Gitlab CI/CD."
+    },
+    "published_at": "2023-09-12 20:47:23+03:00"
+  },
+  {
+    "id": "86630481",
+    "name": "Backend-разработчик, удаленно",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "МП Лаб",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9295279"
+    },
+    "description": {
+      "requirement": "<highlighttext>Python</highlighttext>, Django, FastAPI (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Любовь к написанию...",
+      "responsibility": "Gitlab CI/CD."
+    },
+    "published_at": "2023-09-12 20:47:23+03:00"
+  },
+  {
+    "id": "86671817",
+    "name": "Middle QA Engineer",
+    "area": "Москва",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Level.Travel",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=1278562"
+    },
+    "description": {
+      "requirement": "Опыт разработки тест-планов, тест-кейсов. Знание <highlighttext>Python</highlighttext>, опыт автоматизации тестирования (как плюс). Базовые знания html, сss, regexp. ",
+      "responsibility": "Функциональное тестирование мобильных и web приложений. Тестирование API. Сопровождение задач, мониторинг качества продукта. Документирование багов. Проверка кейсов перед релизом, тестирование..."
+    },
+    "published_at": "2023-09-13 14:18:45+03:00"
+  },
+  {
+    "id": "86324076",
+    "name": "Разработчик Python (junior)",
+    "area": "Москва",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ANABAR",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4872201"
+    },
+    "description": {
+      "requirement": "Знание что такое swagger. Знание как управлять зависимостями в приложениях на <highlighttext>python</highlighttext> (pip/poetry/pipenv). Понимание про typehints/mypy. ",
+      "responsibility": "Написание микросервисов для аналитических сервисов (формируют хитрый оптимизированный запрос в БД, обрабатывает на <highlighttext>python</highlighttext> и отдает в <highlighttext>python</highlighttext>). "
+    },
+    "published_at": "2023-09-19 09:45:29+03:00"
+  },
+  {
+    "id": "86324076",
+    "name": "Разработчик Python (junior)",
+    "area": "Москва",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ANABAR",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4872201"
+    },
+    "description": {
+      "requirement": "Знание что такое swagger. Знание как управлять зависимостями в приложениях на <highlighttext>python</highlighttext> (pip/poetry/pipenv). Понимание про typehints/mypy. ",
+      "responsibility": "Написание микросервисов для аналитических сервисов (формируют хитрый оптимизированный запрос в БД, обрабатывает на <highlighttext>python</highlighttext> и отдает в <highlighttext>python</highlighttext>). "
+    },
+    "published_at": "2023-09-19 09:45:29+03:00"
+  },
+  {
+    "id": "86324076",
+    "name": "Разработчик Python (junior)",
+    "area": "Москва",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ANABAR",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4872201"
+    },
+    "description": {
+      "requirement": "Знание что такое swagger. Знание как управлять зависимостями в приложениях на <highlighttext>python</highlighttext> (pip/poetry/pipenv). Понимание про typehints/mypy. ",
+      "responsibility": "Написание микросервисов для аналитических сервисов (формируют хитрый оптимизированный запрос в БД, обрабатывает на <highlighttext>python</highlighttext> и отдает в <highlighttext>python</highlighttext>). "
+    },
+    "published_at": "2023-09-19 09:45:29+03:00"
+  },
+  {
+    "id": "87281935",
+    "name": "Разработчик Python / Computer Vision",
+    "area": "Москва",
+    "salary": {
+      "from": null,
+      "to": 150000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ReSpec",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9977674"
+    },
+    "description": {
+      "requirement": "Хорошие знания <highlighttext>Python</highlighttext> и умение писать на нем качественный и понятный код. Знание классического ML, классификация, кластеризация, регрессия. ",
+      "responsibility": "Разрабатывать алгоритмы детекции, сегментации, классификации и трекинга. Исследовать и анализировать существующие подходы в видеоаналитики и обработке изображений. Обучать, тестировать, адаптировать..."
+    },
+    "published_at": "2023-09-25 13:08:31+03:00"
+  },
+  {
+    "id": "87320866",
+    "name": "Программист Python",
+    "area": "Тольятти",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320865",
+    "name": "Программист Python",
+    "area": "Санкт-Петербург",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320864",
+    "name": "Программист Python",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320866",
+    "name": "Программист Python",
+    "area": "Тольятти",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320865",
+    "name": "Программист Python",
+    "area": "Санкт-Петербург",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320864",
+    "name": "Программист Python",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320866",
+    "name": "Программист Python",
+    "area": "Тольятти",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320865",
+    "name": "Программист Python",
+    "area": "Санкт-Петербург",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320864",
+    "name": "Программист Python",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320866",
+    "name": "Программист Python",
+    "area": "Тольятти",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320865",
+    "name": "Программист Python",
+    "area": "Санкт-Петербург",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320864",
+    "name": "Программист Python",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320866",
+    "name": "Программист Python",
+    "area": "Тольятти",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320865",
+    "name": "Программист Python",
+    "area": "Санкт-Петербург",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320864",
+    "name": "Программист Python",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320866",
+    "name": "Программист Python",
+    "area": "Тольятти",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320865",
+    "name": "Программист Python",
+    "area": "Санкт-Петербург",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87320864",
+    "name": "Программист Python",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "WOGOW (ИП Толстой Дмитрий Андреевич)",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10356459"
+    },
+    "description": {
+      "requirement": "Необходимые навыки: SQL. Matplotlib. Pandas (опционально). NumPy (опционально). Кого хотим видеть: Специалистов последних курсов университетов, желающих связать свою карьеру с...",
+      "responsibility": "Необходимо решить задачу аналитики, поиска закономерностей и трендов продаж на основе информации в базе данных. Необходимо создать набор SQL запросов..."
+    },
+    "published_at": "2023-09-26 09:28:12+03:00"
+  },
+  {
+    "id": "87582066",
+    "name": "Тестировщик (QA инженер)",
+    "area": "Тула",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "name": "Солид Системс",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=833298"
+    },
+    "description": {
+      "requirement": "...жизненом цикле <highlighttext>разработки</highlighttext> ПО (Agile, Waterfall, etc.). – Владение хотя бы одним языком программирования на среднем уровне (Java, <highlighttext>Python</highlighttext>, JavaScript). – ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> и поддержка тестовых сценариев, тест-кейсов и планов тестирования. – Анализ результатов тестирования и выявление дефектов. – Взаимодействие с <highlighttext>разработчиками</highlighttext> и..."
+    },
+    "published_at": "2023-10-02 09:36:51+03:00"
+  },
+  {
+    "id": "87582066",
+    "name": "Тестировщик (QA инженер)",
+    "area": "Тула",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "name": "Солид Системс",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=833298"
+    },
+    "description": {
+      "requirement": "...жизненом цикле <highlighttext>разработки</highlighttext> ПО (Agile, Waterfall, etc.). – Владение хотя бы одним языком программирования на среднем уровне (Java, <highlighttext>Python</highlighttext>, JavaScript). – ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> и поддержка тестовых сценариев, тест-кейсов и планов тестирования. – Анализ результатов тестирования и выявление дефектов. – Взаимодействие с <highlighttext>разработчиками</highlighttext> и..."
+    },
+    "published_at": "2023-10-02 09:36:51+03:00"
+  },
+  {
+    "id": "87582066",
+    "name": "Тестировщик (QA инженер)",
+    "area": "Тула",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "name": "Солид Системс",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=833298"
+    },
+    "description": {
+      "requirement": "...жизненом цикле <highlighttext>разработки</highlighttext> ПО (Agile, Waterfall, etc.). – Владение хотя бы одним языком программирования на среднем уровне (Java, <highlighttext>Python</highlighttext>, JavaScript). – ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> и поддержка тестовых сценариев, тест-кейсов и планов тестирования. – Анализ результатов тестирования и выявление дефектов. – Взаимодействие с <highlighttext>разработчиками</highlighttext> и..."
+    },
+    "published_at": "2023-10-02 09:36:51+03:00"
+  },
+  {
+    "id": "87582066",
+    "name": "Тестировщик (QA инженер)",
+    "area": "Тула",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "name": "Солид Системс",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=833298"
+    },
+    "description": {
+      "requirement": "...жизненом цикле <highlighttext>разработки</highlighttext> ПО (Agile, Waterfall, etc.). – Владение хотя бы одним языком программирования на среднем уровне (Java, <highlighttext>Python</highlighttext>, JavaScript). – ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> и поддержка тестовых сценариев, тест-кейсов и планов тестирования. – Анализ результатов тестирования и выявление дефектов. – Взаимодействие с <highlighttext>разработчиками</highlighttext> и..."
+    },
+    "published_at": "2023-10-02 09:36:51+03:00"
+  },
+  {
+    "id": "87582066",
+    "name": "Тестировщик (QA инженер)",
+    "area": "Тула",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "name": "Солид Системс",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=833298"
+    },
+    "description": {
+      "requirement": "...жизненом цикле <highlighttext>разработки</highlighttext> ПО (Agile, Waterfall, etc.). – Владение хотя бы одним языком программирования на среднем уровне (Java, <highlighttext>Python</highlighttext>, JavaScript). – ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> и поддержка тестовых сценариев, тест-кейсов и планов тестирования. – Анализ результатов тестирования и выявление дефектов. – Взаимодействие с <highlighttext>разработчиками</highlighttext> и..."
+    },
+    "published_at": "2023-10-02 09:36:51+03:00"
+  },
+  {
+    "id": "87582066",
+    "name": "Тестировщик (QA инженер)",
+    "area": "Тула",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "employer": {
+      "name": "Солид Системс",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=833298"
+    },
+    "description": {
+      "requirement": "Владение хотя бы одним языком программирования на среднем уровне (Java, <highlighttext>Python</highlighttext>, JavaScript). – Умение работать с базами данных (MySQL, PostgreSQL). – ",
+      "responsibility": "Анализ результатов тестирования и выявление дефектов. – Взаимодействие с <highlighttext>разработчиками</highlighttext> и другими членами команды для обеспечения эффективного процесса тестирования. – "
+    },
+    "published_at": "2023-10-02 09:36:51+03:00"
+  },
+  {
+    "id": "87674219",
+    "name": "Разработчик Python",
+    "area": "Москва",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Human Capital",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=23596"
+    },
+    "description": {
+      "requirement": "Опыт <highlighttext>разработки</highlighttext> на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с REST API, TDD. Опыт работы с фреймворками FastAPI и Flask. ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> кода и модульных тестов. Рефакторинг кода. Исправление дефектов системы. Поддержание порядка в репозитории. Взаимодействие с другими командами – DevOps, QA..."
+    },
+    "published_at": "2023-10-03 14:52:57+03:00"
+  },
+  {
+    "id": "87674219",
+    "name": "Разработчик Python",
+    "area": "Москва",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Human Capital",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=23596"
+    },
+    "description": {
+      "requirement": "Опыт <highlighttext>разработки</highlighttext> на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с REST API, TDD. Опыт работы с фреймворками FastAPI и Flask. ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> кода и модульных тестов. Рефакторинг кода. Исправление дефектов системы. Поддержание порядка в репозитории. Взаимодействие с другими командами – DevOps, QA..."
+    },
+    "published_at": "2023-10-03 14:52:57+03:00"
+  },
+  {
+    "id": "87674219",
+    "name": "Разработчик Python",
+    "area": "Москва",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Human Capital",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=23596"
+    },
+    "description": {
+      "requirement": "Опыт <highlighttext>разработки</highlighttext> на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с REST API, TDD. Опыт работы с фреймворками FastAPI и Flask. ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> кода и модульных тестов. Рефакторинг кода. Исправление дефектов системы. Поддержание порядка в репозитории. Взаимодействие с другими командами – DevOps, QA..."
+    },
+    "published_at": "2023-10-03 14:52:57+03:00"
+  },
+  {
+    "id": "87674219",
+    "name": "Разработчик Python",
+    "area": "Москва",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Human Capital",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=23596"
+    },
+    "description": {
+      "requirement": "Опыт <highlighttext>разработки</highlighttext> на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с REST API, TDD. Опыт работы с фреймворками FastAPI и Flask. ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> кода и модульных тестов. Рефакторинг кода. Исправление дефектов системы. Поддержание порядка в репозитории. Взаимодействие с другими командами – DevOps, QA..."
+    },
+    "published_at": "2023-10-03 14:52:57+03:00"
+  },
+  {
+    "id": "87674219",
+    "name": "Разработчик Python",
+    "area": "Москва",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Human Capital",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=23596"
+    },
+    "description": {
+      "requirement": "Опыт <highlighttext>разработки</highlighttext> на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с REST API, TDD. Опыт работы с фреймворками FastAPI и Flask. ",
+      "responsibility": "<highlighttext>Разработка</highlighttext> кода и модульных тестов. Рефакторинг кода. Исправление дефектов системы. Поддержание порядка в репозитории. Взаимодействие с другими командами – DevOps, QA..."
+    },
+    "published_at": "2023-10-03 14:52:57+03:00"
+  },
+  {
+    "id": "87674219",
+    "name": "Разработчик Python",
+    "area": "Москва",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Human Capital",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=23596"
+    },
+    "description": {
+      "requirement": "Опыт разработки на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с REST API, TDD. Опыт работы с фреймворками FastAPI и Flask. ",
+      "responsibility": "Разработка кода и модульных тестов. Рефакторинг кода. Исправление дефектов системы. Поддержание порядка в репозитории. Взаимодействие с другими командами – DevOps, QA..."
+    },
+    "published_at": "2023-10-03 14:52:57+03:00"
+  },
+  {
+    "id": "87722503",
+    "name": "QA engineer",
+    "area": "Москва",
+    "salary": {
+      "from": null,
+      "to": 120000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Finch",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=109956"
+    },
+    "description": {
+      "requirement": "Самостоятельность, умение организовывать и планировать свою работу, навыки работы в команде. Базовые знания программирования на <highlighttext>python</highlighttext>/java. Желание в будущем...",
+      "responsibility": "Анализировать функционал и искать «слабые» места. Общаться с <highlighttext>разработчиками</highlighttext>, проджект менеджерами, дизайнерами. Документировать ошибки (Redmine, Notion, Outline). Вести тестовую документацию..."
+    },
+    "published_at": "2023-10-04 13:01:43+03:00"
+  },
+  {
+    "id": "87725728",
+    "name": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+    "area": "Москва",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "MillionAgents",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=863273"
+    },
+    "description": {
+      "requirement": "Что обязательно нужно знать и уметь: <highlighttext>Python</highlighttext> на базовом уровне (циклы, функции, структуры данных, ООП). Что такое Header, Cookie и...",
+      "responsibility": null
+    },
+    "published_at": "2023-10-04 13:40:57+03:00"
+  },
+  {
+    "id": "87725728",
+    "name": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
+    "area": "Москва",
+    "salary": {
+      "from": null,
+      "to": 80000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "MillionAgents",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=863273"
+    },
+    "description": {
+      "requirement": "Что обязательно нужно знать и уметь: <highlighttext>Python</highlighttext> на базовом уровне (циклы, функции, структуры данных, ООП). Что такое Header, Cookie и...",
+      "responsibility": null
+    },
+    "published_at": "2023-10-04 13:40:57+03:00"
+  },
+  {
+    "id": "87737275",
+    "name": "Тестировщик ПО (QA)",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ФАЙВДЖЕН",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4938750"
+    },
+    "description": {
+      "requirement": "Знание SQL, Postman, <highlighttext>Python</highlighttext>. Опыт тестирования backend приложений. Знание методов и методик тестирования. Ответственность за свои решения, самостоятельность, инициативность, вариативность...",
+      "responsibility": "Проводить тестирование программных продуктов (backend, иногда frontend). Разрабатывать сценарии и автотесты (<highlighttext>Python</highlighttext>). Проводить ручные тесты протоколов взаимодействия (API) программных продуктов. "
+    },
+    "published_at": "2023-10-04 15:57:27+03:00"
+  },
+  {
+    "id": "87737275",
+    "name": "Тестировщик ПО (QA)",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ФАЙВДЖЕН",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4938750"
+    },
+    "description": {
+      "requirement": "Знание SQL, Postman, <highlighttext>Python</highlighttext>. Опыт тестирования backend приложений. Знание методов и методик тестирования. Ответственность за свои решения, самостоятельность, инициативность, вариативность...",
+      "responsibility": "Проводить тестирование программных продуктов (backend, иногда frontend). Разрабатывать сценарии и автотесты (<highlighttext>Python</highlighttext>). Проводить ручные тесты протоколов взаимодействия (API) программных продуктов. "
+    },
+    "published_at": "2023-10-04 15:57:27+03:00"
+  },
+  {
+    "id": "87737275",
+    "name": "Тестировщик ПО (QA)",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ФАЙВДЖЕН",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4938750"
+    },
+    "description": {
+      "requirement": "Знание SQL, Postman, <highlighttext>Python</highlighttext>. Опыт тестирования backend приложений. Знание методов и методик тестирования. Ответственность за свои решения, самостоятельность, инициативность, вариативность...",
+      "responsibility": "Проводить тестирование программных продуктов (backend, иногда frontend). Разрабатывать сценарии и автотесты (<highlighttext>Python</highlighttext>). Проводить ручные тесты протоколов взаимодействия (API) программных продуктов. "
+    },
+    "published_at": "2023-10-04 15:57:27+03:00"
+  },
+  {
+    "id": "87737275",
+    "name": "Тестировщик ПО (QA)",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ФАЙВДЖЕН",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4938750"
+    },
+    "description": {
+      "requirement": "Знание SQL, Postman, <highlighttext>Python</highlighttext>. Опыт тестирования backend приложений. Знание методов и методик тестирования. Ответственность за свои решения, самостоятельность, инициативность, вариативность...",
+      "responsibility": "Проводить тестирование программных продуктов (backend, иногда frontend). Разрабатывать сценарии и автотесты (<highlighttext>Python</highlighttext>). Проводить ручные тесты протоколов взаимодействия (API) программных продуктов. "
+    },
+    "published_at": "2023-10-04 15:57:27+03:00"
+  },
+  {
+    "id": "87737275",
+    "name": "Тестировщик ПО (QA)",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ФАЙВДЖЕН",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4938750"
+    },
+    "description": {
+      "requirement": "Знание SQL, Postman, <highlighttext>Python</highlighttext>. Опыт тестирования backend приложений. Знание методов и методик тестирования. Ответственность за свои решения, самостоятельность, инициативность, вариативность...",
+      "responsibility": "Проводить тестирование программных продуктов (backend, иногда frontend). Разрабатывать сценарии и автотесты (<highlighttext>Python</highlighttext>). Проводить ручные тесты протоколов взаимодействия (API) программных продуктов. "
+    },
+    "published_at": "2023-10-04 15:57:27+03:00"
+  },
+  {
+    "id": "87737275",
+    "name": "Тестировщик ПО (QA)",
+    "area": "Москва",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "ФАЙВДЖЕН",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=4938750"
+    },
+    "description": {
+      "requirement": "Знание SQL, Postman, <highlighttext>Python</highlighttext>. Опыт тестирования backend приложений. Знание методов и методик тестирования. Ответственность за свои решения, самостоятельность, инициативность, вариативность...",
+      "responsibility": "Проводить тестирование программных продуктов (backend, иногда frontend). Разрабатывать сценарии и автотесты (<highlighttext>Python</highlighttext>). Проводить ручные тесты протоколов взаимодействия (API) программных продуктов. "
+    },
+    "published_at": "2023-10-04 15:57:27+03:00"
+  },
+  {
+    "id": "87744517",
+    "name": "Manual QA Engineer (remote)",
+    "area": "Москва",
+    "salary": {
+      "from": null,
+      "to": 140000,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Отус",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=2970204"
+    },
+    "description": {
+      "requirement": "...тестирования мобильных приложений будет вашим преимуществом. Базовые знания/понимание языков программирования (в идеале <highlighttext>Python</highlighttext>) и/или SQL будет большим плюсом.",
+      "responsibility": "Исследовать и воспроизводить ошибки, сбои для последующего багфиксинга <highlighttext>разработчиками</highlighttext>. Детализировано и понятно описывать найденные при тестировании инциденты для разработки. "
+    },
+    "published_at": "2023-10-04 18:00:33+03:00"
+  },
+  {
+    "id": "87786254",
+    "name": "Junior golang разработчик",
+    "area": "Москва",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "CRTEX",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9244855"
+    },
+    "description": {
+      "requirement": "Уверенное понимание базовых структур данных и алгоритмов. Опыт коммерческой <highlighttext>разработки</highlighttext> на Go (или коммерческая <highlighttext>разработка</highlighttext> на C++/ <highlighttext>Python</highlighttext>/Java и...",
+      "responsibility": "Проектировать архитектуру проекта/микросервисов. Транзакционная нагрузка ожидается от 100rps. Интегрировать внутренние сервисы с внешними системами. Писать оптимальный код, в..."
+    },
+    "published_at": "2023-10-05 14:35:12+03:00"
+  },
+  {
+    "id": "87786254",
+    "name": "Junior golang разработчик",
+    "area": "Москва",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "CRTEX",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9244855"
+    },
+    "description": {
+      "requirement": "Уверенное понимание базовых структур данных и алгоритмов. Опыт коммерческой <highlighttext>разработки</highlighttext> на Go (или коммерческая <highlighttext>разработка</highlighttext> на C++/ <highlighttext>Python</highlighttext>/Java и...",
+      "responsibility": "Проектировать архитектуру проекта/микросервисов. Транзакционная нагрузка ожидается от 100rps. Интегрировать внутренние сервисы с внешними системами. Писать оптимальный код, в..."
+    },
+    "published_at": "2023-10-05 14:35:12+03:00"
+  },
+  {
+    "id": "87786254",
+    "name": "Junior golang разработчик",
+    "area": "Москва",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "CRTEX",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9244855"
+    },
+    "description": {
+      "requirement": "Уверенное понимание базовых структур данных и алгоритмов. Опыт коммерческой <highlighttext>разработки</highlighttext> на Go (или коммерческая <highlighttext>разработка</highlighttext> на C++/ <highlighttext>Python</highlighttext>/Java и...",
+      "responsibility": "Проектировать архитектуру проекта/микросервисов. Транзакционная нагрузка ожидается от 100rps. Интегрировать внутренние сервисы с внешними системами. Писать оптимальный код, в..."
+    },
+    "published_at": "2023-10-05 14:35:12+03:00"
+  },
+  {
+    "id": "87786254",
+    "name": "Junior golang разработчик",
+    "area": "Москва",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "CRTEX",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9244855"
+    },
+    "description": {
+      "requirement": "Уверенное понимание базовых структур данных и алгоритмов. Опыт коммерческой <highlighttext>разработки</highlighttext> на Go (или коммерческая <highlighttext>разработка</highlighttext> на C++/ <highlighttext>Python</highlighttext>/Java и...",
+      "responsibility": "Проектировать архитектуру проекта/микросервисов. Транзакционная нагрузка ожидается от 100rps. Интегрировать внутренние сервисы с внешними системами. Писать оптимальный код, в..."
+    },
+    "published_at": "2023-10-05 14:35:12+03:00"
+  },
+  {
+    "id": "87786254",
+    "name": "Junior golang разработчик",
+    "area": "Москва",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "CRTEX",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9244855"
+    },
+    "description": {
+      "requirement": "Уверенное понимание базовых структур данных и алгоритмов. Опыт коммерческой <highlighttext>разработки</highlighttext> на Go (или коммерческая <highlighttext>разработка</highlighttext> на C++/ <highlighttext>Python</highlighttext>/Java и...",
+      "responsibility": "Проектировать архитектуру проекта/микросервисов. Транзакционная нагрузка ожидается от 100rps. Интегрировать внутренние сервисы с внешними системами. Писать оптимальный код, в..."
+    },
+    "published_at": "2023-10-05 14:35:12+03:00"
+  },
+  {
+    "id": "87786254",
+    "name": "Junior golang разработчик",
+    "area": "Москва",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "CRTEX",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=9244855"
+    },
+    "description": {
+      "requirement": "Опыт коммерческой разработки на Go (или коммерческая разработка на C++/ <highlighttext>Python</highlighttext>/Java и желание перейти на Golang). Опыт построения микросервисной...",
+      "responsibility": "Проектировать архитектуру проекта/микросервисов. Транзакционная нагрузка ожидается от 100rps. Интегрировать внутренние сервисы с внешними системами. Писать оптимальный код, в..."
+    },
+    "published_at": "2023-10-05 14:35:12+03:00"
+  },
+  {
+    "id": "87838900",
+    "name": "Backend Python Developer (Python Разработчик)",
+    "area": "Москва",
+    "salary": {
+      "from": 170000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "employer": {
+      "name": "Вспорте",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=8903804"
+    },
+    "description": {
+      "requirement": "...на <highlighttext>Python</highlighttext>. Имеете опыт разработки с СУБД используя Entity Framework. Имеете опыт асинхронного программирования, как оно устроено в языке <highlighttext>Python</highlighttext>...",
+      "responsibility": "+ Работа с системами контейнеризации и оркестрации контейнеров Docker и Kubernetes."
+    },
+    "published_at": "2023-10-06 14:00:49+03:00"
+  },
+  {
+    "id": "87842215",
+    "name": "BI Аналитик (SQL, Power BI, Qlik, Tableau)",
+    "area": "Астана",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "employer": {
+      "name": "DATA DRIVEN SOLUTIONS",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10044532"
+    },
+    "description": {
+      "requirement": "Опыт на позиции BI Analyst/<highlighttext>Developer</highlighttext>. Знание SQL. Продвинутое знание DAX (язык формул и запросов в продвинутом Excel и Power...",
+      "responsibility": "Коммуникация с внешними заказчиками: интервьюирование, презентация продукта. Работа с требованиями, структурирование, составление ТЗ. Подготовка и обработка данных. Дизайн и визуализация..."
+    },
+    "published_at": "2023-10-06 14:46:25+03:00"
+  },
+  {
+    "id": "87842215",
+    "name": "BI Аналитик (SQL, Power BI, Qlik, Tableau)",
+    "area": "Астана",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "employer": {
+      "name": "DATA DRIVEN SOLUTIONS",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10044532"
+    },
+    "description": {
+      "requirement": "Опыт на позиции BI Analyst/<highlighttext>Developer</highlighttext>. Знание SQL. Продвинутое знание DAX (язык формул и запросов в продвинутом Excel и Power...",
+      "responsibility": "Коммуникация с внешними заказчиками: интервьюирование, презентация продукта. Работа с требованиями, структурирование, составление ТЗ. Подготовка и обработка данных. Дизайн и визуализация..."
+    },
+    "published_at": "2023-10-06 14:46:25+03:00"
+  },
+  {
+    "id": "87842215",
+    "name": "BI Аналитик (SQL, Power BI, Qlik, Tableau)",
+    "area": "Астана",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "employer": {
+      "name": "DATA DRIVEN SOLUTIONS",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10044532"
+    },
+    "description": {
+      "requirement": "Опыт на позиции BI Analyst/<highlighttext>Developer</highlighttext>. Знание SQL. Продвинутое знание DAX (язык формул и запросов в продвинутом Excel и Power...",
+      "responsibility": "Коммуникация с внешними заказчиками: интервьюирование, презентация продукта. Работа с требованиями, структурирование, составление ТЗ. Подготовка и обработка данных. Дизайн и визуализация..."
+    },
+    "published_at": "2023-10-06 14:46:25+03:00"
+  },
+  {
+    "id": "87842215",
+    "name": "BI Аналитик (SQL, Power BI, Qlik, Tableau)",
+    "area": "Астана",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "employer": {
+      "name": "DATA DRIVEN SOLUTIONS",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10044532"
+    },
+    "description": {
+      "requirement": "Опыт на позиции BI Analyst/<highlighttext>Developer</highlighttext>. Знание SQL. Продвинутое знание DAX (язык формул и запросов в продвинутом Excel и Power...",
+      "responsibility": "Коммуникация с внешними заказчиками: интервьюирование, презентация продукта. Работа с требованиями, структурирование, составление ТЗ. Подготовка и обработка данных. Дизайн и визуализация..."
+    },
+    "published_at": "2023-10-06 14:46:25+03:00"
+  },
+  {
+    "id": "87842215",
+    "name": "BI Аналитик (SQL, Power BI, Qlik, Tableau)",
+    "area": "Астана",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "employer": {
+      "name": "DATA DRIVEN SOLUTIONS",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10044532"
+    },
+    "description": {
+      "requirement": "Опыт на позиции BI Analyst/<highlighttext>Developer</highlighttext>. Знание SQL. Продвинутое знание DAX (язык формул и запросов в продвинутом Excel и Power...",
+      "responsibility": "Коммуникация с внешними заказчиками: интервьюирование, презентация продукта. Работа с требованиями, структурирование, составление ТЗ. Подготовка и обработка данных. Дизайн и визуализация..."
+    },
+    "published_at": "2023-10-06 14:46:25+03:00"
+  },
+  {
+    "id": "87842215",
+    "name": "BI Аналитик (SQL, Power BI, Qlik, Tableau)",
+    "area": "Астана",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "employer": {
+      "name": "DATA DRIVEN SOLUTIONS",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10044532"
+    },
+    "description": {
+      "requirement": "Опыт на позиции BI Analyst/<highlighttext>Developer</highlighttext>. Знание SQL. Продвинутое знание DAX (язык формул и запросов в продвинутом Excel и Power...",
+      "responsibility": "Коммуникация с внешними заказчиками: интервьюирование, презентация продукта. Работа с требованиями, структурирование, составление ТЗ. Подготовка и обработка данных. Дизайн и визуализация..."
+    },
+    "published_at": "2023-10-06 14:46:25+03:00"
+  },
+  {
+    "id": "87842215",
+    "name": "BI Аналитик (SQL, Power BI, Qlik, Tableau)",
+    "area": "Астана",
+    "salary": {
+      "from": 500000,
+      "to": null,
+      "currency": "KZT",
+      "gross": false
+    },
+    "employer": {
+      "name": "DATA DRIVEN SOLUTIONS",
+      "vacancies": "https://api.hh.ru/vacancies?employer_id=10044532"
+    },
+    "description": {
+      "requirement": "Опыт на позиции BI Analyst/<highlighttext>Developer</highlighttext>. Знание SQL. Продвинутое знание DAX (язык формул и запросов в продвинутом Excel и Power...",
+      "responsibility": "Коммуникация с внешними заказчиками: интервьюирование, презентация продукта. Работа с требованиями, структурирование, составление ТЗ. Подготовка и обработка данных. Дизайн и визуализация..."
+    },
+    "published_at": "2023-10-06 14:46:25+03:00"
+  }
+]
