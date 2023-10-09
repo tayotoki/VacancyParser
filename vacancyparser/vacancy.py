@@ -1,3 +1,5 @@
+from typing import Self
+
 from .descriptors import (
     ID,
     Salary,
@@ -14,7 +16,7 @@ class Vacancy:
     Поля экземпляра проходят валидацию
     и форматирование данных с помощью
     дата-дескрипторов."""
-    all = []
+    all_: list[Self] = []
 
     id = ID()
     name = Name()
@@ -36,7 +38,7 @@ class Vacancy:
 
     def __new__(cls, *args, **kwargs):
         instance = super().__new__(cls)
-        cls.all.append(instance)
+        cls.all_.append(instance)
         return instance
 
     def __init__(
