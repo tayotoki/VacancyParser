@@ -1,4 +1,5 @@
 from datetime import datetime
+from dateutil import parser
 
 from .api_abc import API, Request, VacancySchema
 
@@ -24,7 +25,7 @@ class HeadHunterAPI(API):
                         "vacancies": vacancy_fields["employer"].get("vacancies_url"),
                     },
                     description=vacancy_fields["snippet"],
-                    published_at=str(datetime.fromisoformat(vacancy_fields["published_at"]))
+                    published_at=str(parser.parse(vacancy_fields["published_at"]))
                 )
             )
 

@@ -14,7 +14,7 @@ def setup(directory: Path, file: Path):
 
 def create_vacancy_objects_from_json(file: Path):
     with open(file) as data:
-        Vacancy.all = []
+        Vacancy.all_ = []
 
         data = json.load(data)
 
@@ -23,7 +23,7 @@ def create_vacancy_objects_from_json(file: Path):
 
 
 def show_vacancies():
-    for i, vacancy in enumerate(Vacancy.all, 1):
+    for i, vacancy in enumerate(Vacancy.all_, 1):
         print(f"----------------<{i}>-----------------------")
         print(vacancy)
         print("---------------------------------------------")

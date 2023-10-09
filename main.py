@@ -9,9 +9,6 @@ from utils.functions import (
     get_user_sort_fields
 )
 
-test_search = "Python developer"
-
-
 hh_api = headhunter_api.HeadHunterAPI()
 sj_api = superjob_api.SuperJobAPI()
 
@@ -20,6 +17,9 @@ json_handler = json_manager.JSONManager()
 # Вызов метода __call__
 # для инициализации файла по умолчанию
 json_handler()
+
+# Очистка файла от предыдущих результатов
+json_handler.clear()
 
 
 def main():
@@ -90,7 +90,7 @@ def main():
     user_delete = input(
         "Вы можете удалить лишние вакансии по индексу, "
         "индекс выглядит как нумерация в терминале - "
-        "'...--<номер>--...', или по ID вакансии (подсвечивается"
+        "'...--<номер>--...', или по ID вакансии (подсвечивается "
         "зеленым цветом).\n"
         f"Также ID вакансии можно посмотреть в файле {json_handler.file}\n"
         "Введите 'да' если хотите удалить вакансию, иначе оставьте поле "
@@ -129,9 +129,10 @@ def main():
             if repeat_deletion == "да":
                 continue
             else:
-                print("Конец программы. Итоговый файл находится в \n"
-                      f"{json_handler.file}")
                 break
+
+    print("Конец программы. Итоговый файл находится в \n"
+          f"{json_handler.file}")
 
 
 if __name__ == "__main__":

@@ -18,15 +18,15 @@ class JSONManager(FileManager):
 
     def add_vacancy(self, vacancy):
         with open(self.file, "r+") as file:
-            if file.read() == "":
-                data = []
-            else:
-                file.seek(0)
+            try:
                 data = json.load(file)
+            except json.decoder.JSONDecodeError:
+                data = []
 
             data.append(vacancy)
-            file.seek(0)
-            file.write(json.dumps(data, indent=2, ensure_ascii=False))
+
+        with open(self.file, "w") as file:
+            json.dump(data, file, indent=2, ensure_ascii=False)
 
     def delete_vacancy(self, *, index: Optional[int] = None, vacancy_id: Optional[int] = None):
         if any(
